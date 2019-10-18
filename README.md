@@ -45,6 +45,9 @@
 - Lingor [x] Done 9/12/19 (**Version 3.8+x Rework**)
 
 - G.O.S. N'Ziwasogo [x] 9/14/2019 (Fixed Civ-Mil Locations- Minor displacement in old index)
+
+- County Leitrim, Nothern Ireland [x] 10/15/2019 (ObjCat's Need Rework Next Update to Map)
+
 ------------------------------------------------------------------------------
 
 - Dingor [-] **Unable to bypass the loop, cannot parse fnc when maps are dualpacked as this map has been**
@@ -54,6 +57,8 @@
 ``6:10:45 Warning: 3245 ms spent in callExtension calling name: "ALiVEClient", function: "StartIndex~@Lingor-Dingor Island\addons\dingor.pbo|dingor|true"``
 
 -----------------------------------------------------------------------------
+
+- FFAA Gallaecia [-]
 
 - Al Salman, Iraq [-]
 
