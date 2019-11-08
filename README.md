@@ -12,7 +12,6 @@
 
 -  These are preliminary Indexes and will be subject to change as needed by my Milsim Group's deployments continue to develop over time while testing and developing for the upcoming releases of the maps in 2020. Prior to pushing those releases, we felt it was necessary to fix the already existing indexes for some of these maps. This is still a work in progress, please do not publish any of these indexes to any sites, however we believe it is safe for you to pack the x\* folders into your mission.pbo's for usage when they are marked [x] Done.
 
-### As of right now, Dingor cannot be patched! I contacted IceBreakr this morning about seeking a potential bypass to fix this. PLEASE BE PATIENT!
 
 #### When ALiVE indexes are finished, I will transfer the indexes to Github, and issue a pull request on the official ALiVE.os repository.
 
