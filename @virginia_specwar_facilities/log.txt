@@ -1,0 +1,153 @@
+>>>>>>>>>>>>>>>>>> Starting Map Index for virginia_specwar_facilities on 5/28/2023 6:34:52 AM
+>>>>>>>>>>>>>>>>>> pathToMap: C:\Program Files (x86)\Steam\steamapps\common\Arma 3\!Workshop\@Virginia_Specwar_Facilities\Addons\Virginia_Specwar_Facilities.pbo
+>>>>>>>>>>>>>>>>>> root: C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@ALiVE
+>>>>>>>>>>>>>>>>>> folder: C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@ALiVE\indexing
+>>>>>>>>>>>>>>>>>> logfile: C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@ALiVE\indexing\virginia_specwar_facilities\log.txt
+>>>>>>>>>>>>>>>>>> indexfile: C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@ALiVE\indexing\virginia_specwar_facilities\x\alive\addons\fnc_strategic\indexes\objects.virginia_specwar_facilities.sqf
+>>>>>>>>>>>>>>>>>> parsedIndexfile: C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@ALiVE\indexing\virginia_specwar_facilities\x\alive\addons\fnc_strategic\indexes\parsed.objects.virginia_specwar_facilities.sqf
+>>>>>>>>>>>>>>>>>> blacklist file: C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@ALiVE\alive_object_blacklist.txt
+Executing deWrp: cmd.exe /c DeWrp.exe -O "C:\Program Files (x86)\Steam\steamapps\common\Arma 3\!Workshop\@Virginia_Specwar_Facilities\Addons\Virginia_Specwar_Facilities.pbo" > "C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@ALiVE\indexing\virginia_specwar_facilities\x\alive\addons\fnc_strategic\indexes\objects.virginia_specwar_facilities.sqf"
+deWrp Error
+>>>>>>>>>>>>>>>>>> Starting Map Index for virginia_specwar_facilities on 5/28/2023 6:37:57 AM
+>>>>>>>>>>>>>>>>>> pathToMap: C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@Virginia_Specwar_Facilities\Addons\Virginia_Specwar_Facilities.pbo
+>>>>>>>>>>>>>>>>>> root: C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@ALiVE
+>>>>>>>>>>>>>>>>>> folder: C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@ALiVE\indexing
+>>>>>>>>>>>>>>>>>> logfile: C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@ALiVE\indexing\virginia_specwar_facilities\log.txt
+>>>>>>>>>>>>>>>>>> indexfile: C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@ALiVE\indexing\virginia_specwar_facilities\x\alive\addons\fnc_strategic\indexes\objects.virginia_specwar_facilities.sqf
+>>>>>>>>>>>>>>>>>> parsedIndexfile: C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@ALiVE\indexing\virginia_specwar_facilities\x\alive\addons\fnc_strategic\indexes\parsed.objects.virginia_specwar_facilities.sqf
+>>>>>>>>>>>>>>>>>> blacklist file: C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@ALiVE\alive_object_blacklist.txt
+Executing deWrp: DeWrp.exe -O "C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@Virginia_Specwar_Facilities\Addons\Virginia_Specwar_Facilities.pbo"
+deWrp analysis completed
+ ----- Ignoring : 	["a3\plants_f\clutter\c_grass_tall_dead.p3d",
+ ----- Ignoring : 	["a3\plants_f\clutter\c_strgrassgreen_group.p3d",
+ ----- Ignoring : 	["a3\plants_f\clutter\c_strweedbrowntall_group.p3d",
+ ----- Ignoring : 	["a3\plants_f\clutter\c_thistle_high_dead.p3d",
+ ----- Ignoring : 	["a3\plants_f\clutter\c_thistle_high.p3d",
+ ----- Ignoring : 	["a3\plants_f\clutter\c_thistle_thorn_green.p3d",
+ ----- Ignoring : 	["a3\rocks_f\stonesharp_wall.p3d",
+ ----- Ignoring : 	["a3\plants_f\tree\t_pinuss2s_f.p3d",
+ ----- Ignoring : 	["a3\plants_f\tree\t_pinuss1s_f.p3d",
+ ----- Ignoring : 	["a3\plants_f\tree\t_poplar2f_dead_f.p3d",
+ ----- Ignoring : 	["a3\rocks_f\stone_small_w.p3d",
+ ----- Ignoring : 	["a3\plants_f\clutter\c_urchin_black_grp.p3d",
+ ----- Ignoring : 	["a3\plants_f\clutter\c_urchin_black.p3d",
+ ----- Ignoring : 	["a3\plants_f\clutter\c_thistle_small_greenyellow.p3d",
+ ----- Ignoring : 	["a3\plants_f\clutter\c_thistle_medium.p3d",
+ ----- Ignoring : 	["a3\plants_f\tree\t_quercusir2s_f.p3d",
+ ----- Ignoring : 	["a3\plants_f\clutter\c_strthistleyellowshrub.p3d",
+ ----- Ignoring : 	["a3\plants_f\tree\t_populusn3s_f.p3d",
+ ----- Ignoring : 	["a3\plants_f\tree\t_pinuss2s_b_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\households\addons\metal_shed_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\shed\shed_small_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\camping\tentdome_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\naval\piers\pillar_pier_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\camping\toiletbox_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\cncwall4_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\bargate_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\training\shootingpos_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\tank\tank_rust_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\training\shoot_house_panels_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\training\shoot_house_corner_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\training\obstacle_saddle_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\training\obstacle_bridge_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\training\obstacle_cross_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\training\target_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\training\obstacle_climb_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\training\obstacle_crawl_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\training\obstacle_ramp_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\training\shoot_house_wall_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\training\shoot_house_wall_long_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\training\obstacle_pass_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\training\obstacle_runaround_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\windpowerplant\powergenerator_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\stone_8m_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\stone_8md_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\stone_gate_f.p3d",
+
+List of objects remaining:
+	["a3\structures_f\mil\bagbunker\bagbunker_small_f.p3d",
+	["a3\structures_f\ind\wavepowerplant\wavepowerplant_f.p3d",
+	["a3\structures_f\naval\piers\pier_small_f.p3d",
+	["a3\structures_f\dominants\lighthouse\lighthouse_f.p3d",
+	["a3\structures_f\ind\shed\shed_big_f.p3d",
+	["a3\structures_f\naval\piers\pier_doubleside_f.p3d",
+	["a3\structures_f\civ\offices\offices_01_v1_f.p3d",
+	["a3\structures_f\mil\barracks\i_barracks_v2_f.p3d",
+	["a3\structures_f\mil\helipads\helipadempty_f.p3d",
+	["a3\structures_f\mil\helipads\helipadsquare_f.p3d",
+	["a3\structures_f\mil\helipads\helipadcivil_f.p3d",
+	["a3\structures_f\households\wip\unfinished_building_01_f.p3d",
+	["a3\structures_f\ind\reservoirtank\reservoirtower_f.p3d",
+	["a3\structures_f\ind\reservoirtank\reservoirtank_v1_f.p3d",
+	["a3\structures_f\dominants\hospital\hospital_f.p3d",
+	["a3\structures_f\training\target_popup_moving_90deg_f.p3d",
+	["a3\structures_f\training\target_popup_large_f.p3d",
+	["a3\structures_f\training\shoot_house_tunnel_f.p3d",
+	["a3\structures_f\ind\airport\hangar_f.p3d",
+	["a3\structures_f\mil\helipads\helipadcircle_f.p3d",
+	["a3\structures_f\mil\radar\radar_small_f.p3d",
+	["a3\structures_f\mil\tenthangar\tenthangar_v1_f.p3d",
+	["a3\structures_f\mil\radar\radar_f.p3d",
+	["a3\structures_f\mil\helipads\helipadrescue_f.p3d",
+	["a3\structures_f\mil\cargo\medevac_house_v1_f.p3d",
+	["a3\structures_f\ind\transmitter_tower\ttowerbig_1_f.p3d",
+	["a3\structures_f\ind\transmitter_tower\ttowerbig_2_f.p3d",
+	["a3\structures_f\ind\solarpowerplant\spp_tower_f.p3d",
+>>>>>>>>>>>>>>>>>> Copying C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@ALiVE\indexing\virginia_specwar_facilities\x\alive\addons\fnc_strategic\indexes\parsed.objects.virginia_specwar_facilities.sqf to C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@ALiVE\indexing\virginia_specwar_facilities\x\alive\addons\fnc_strategic\indexes\objects.virginia_specwar_facilities.sqf
+Parsing Complete
+No Static data file found.
+Starting Cluster Generation, check in game RPT for more details.
+mil Cluster small number erased: _nodes set [count _nodes, ["1180574",[2642.23,4588.35,1.54972e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["1180577",[2673.68,4589.79,1.54972e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["1180576",[2687.22,4553.46,1.54972e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["1180575",[2647.99,4550.21,1.54972e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["1181236",[3993.84,4041.35,4.91142e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["1181251",[4020.48,3905.86,4.91142e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["1181268",[3992.94,3785.54,4.91142e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["1181286",[3899.86,3665.38,4.91142e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["1181240",[3800.53,3808.38,5.05447e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["1181253",[3824.52,3860.37,5.05447e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["1181246",[3840.83,3908.64,4.91142e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["1181242",[3855.5,3957.77,5.05447e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["1181233",[3764.28,4039.64,2.86102e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["1181237",[3742.18,3935.39,1.33514e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["1181238",[3725.15,3851.4,2.86102e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["1181624",[4170.28,2839.39,1.81198e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["1180574",[2642.23,4588.35,1.54972e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["1180577",[2673.68,4589.79,1.54972e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["1180576",[2687.22,4553.46,1.54972e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["1180575",[2647.99,4550.21,1.54972e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["1181236",[3993.84,4041.35,4.91142e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["1181251",[4020.48,3905.86,4.91142e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["1181268",[3992.94,3785.54,4.91142e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["1181286",[3899.86,3665.38,4.91142e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["1181240",[3800.53,3808.38,5.05447e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["1181253",[3824.52,3860.37,5.05447e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["1181246",[3840.83,3908.64,4.91142e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["1181242",[3855.5,3957.77,5.05447e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["1181502",[4251.4,3451.2,-3.24249e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["1181250",[4063.54,3962.13,7.62939e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["1181267",[4057.55,3820.11,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["1181269",[4134.28,3803.88,7.62939e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["1181419",[4208.32,3705.94,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["1181359",[4183.72,3810.63,-8.58307e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["1181418",[4268.94,3722.36,-8.58307e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["1180661",[3343.49,4500.83,-8.58307e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["1180703",[3329.98,4446.92,-8.58307e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["1181502",[4251.4,3451.2,-3.24249e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["1181250",[4063.54,3962.13,7.62939e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["1181267",[4057.55,3820.11,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["1181269",[4134.28,3803.88,7.62939e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["1181419",[4208.32,3705.94,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["1180661",[3343.49,4500.83,-8.58307e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["1180703",[3329.98,4446.92,-8.58307e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["1181359",[4183.72,3810.63,-8.58307e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["1181418",[4268.94,3722.36,-8.58307e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["1180661",[3343.49,4500.83,-8.58307e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["1180703",[3329.98,4446.92,-8.58307e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["1181359",[4183.72,3810.63,-8.58307e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["1181418",[4268.94,3722.36,-8.58307e-006]]];
+mil sector null: _sectorData = [ALIVE_gridData, "<null>_<null>"] call ALIVE_fnc_hashGet;
+mil sector null: [ALIVE_gridData, "<null>_<null>", _sectorData] call ALIVE_fnc_hashSet;
+civ sector null: _sectorData = [ALIVE_gridData, "<null>_<null>"] call ALIVE_fnc_hashGet;
+civ sector null: [ALIVE_gridData, "<null>_<null>", _sectorData] call ALIVE_fnc_hashSet;
