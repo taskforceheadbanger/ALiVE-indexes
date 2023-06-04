@@ -1,12 +1,12 @@
->>>>>>>>>>>>>>>>>> Starting Map Index for fallujah on 9/12/2019 5:46:44 AM
->>>>>>>>>>>>>>>>>> pathToMap: D:\SteamLibrary\steamapps\common\Arma 3\@Fallujah\addons\fallujah1_2.pbo
->>>>>>>>>>>>>>>>>> root: D:\SteamLibrary\steamapps\common\Arma 3\@ALiVE
->>>>>>>>>>>>>>>>>> folder: D:\SteamLibrary\steamapps\common\Arma 3\@ALiVE\indexing
->>>>>>>>>>>>>>>>>> logfile: D:\SteamLibrary\steamapps\common\Arma 3\@ALiVE\indexing\fallujah\log.txt
->>>>>>>>>>>>>>>>>> indexfile: D:\SteamLibrary\steamapps\common\Arma 3\@ALiVE\indexing\fallujah\x\alive\addons\fnc_strategic\indexes\objects.fallujah.sqf
->>>>>>>>>>>>>>>>>> parsedIndexfile: D:\SteamLibrary\steamapps\common\Arma 3\@ALiVE\indexing\fallujah\x\alive\addons\fnc_strategic\indexes\parsed.objects.fallujah.sqf
->>>>>>>>>>>>>>>>>> blacklist file: D:\SteamLibrary\steamapps\common\Arma 3\@ALiVE\alive_object_blacklist.txt
-Executing deWrp: DeWrp.exe -O "D:\SteamLibrary\steamapps\common\Arma 3\@Fallujah\addons\fallujah1_2.pbo"
+>>>>>>>>>>>>>>>>>> Starting Map Index for fallujah on 6/4/2023 10:03:49 AM
+>>>>>>>>>>>>>>>>>> pathToMap: C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@Fallujah 2.0\addons\fallujah.pbo
+>>>>>>>>>>>>>>>>>> root: C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@ALiVE
+>>>>>>>>>>>>>>>>>> folder: C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@ALiVE\indexing
+>>>>>>>>>>>>>>>>>> logfile: C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@ALiVE\indexing\fallujah\log.txt
+>>>>>>>>>>>>>>>>>> indexfile: C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@ALiVE\indexing\fallujah\x\alive\addons\fnc_strategic\indexes\objects.fallujah.sqf
+>>>>>>>>>>>>>>>>>> parsedIndexfile: C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@ALiVE\indexing\fallujah\x\alive\addons\fnc_strategic\indexes\parsed.objects.fallujah.sqf
+>>>>>>>>>>>>>>>>>> blacklist file: C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@ALiVE\alive_object_blacklist.txt
+Executing deWrp: DeWrp.exe -O "C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@Fallujah 2.0\addons\fallujah.pbo"
 deWrp analysis completed
  ----- Ignoring : 	["ca\plants2\bush\b_pmugo.p3d",
  ----- Ignoring : 	["fallujah_hou\palm_04.p3d",
@@ -510,7 +510,7 @@ List of objects remaining:
 	["ca\misc2\bighbarrier.p3d",
 	["ca\misc3\wf\wf_field_hospital_west.p3d",
 	["ca\misc3\wf\wf_vehicle_service_point_east.p3d",
->>>>>>>>>>>>>>>>>> Copying D:\SteamLibrary\steamapps\common\Arma 3\@ALiVE\indexing\fallujah\x\alive\addons\fnc_strategic\indexes\parsed.objects.fallujah.sqf to D:\SteamLibrary\steamapps\common\Arma 3\@ALiVE\indexing\fallujah\x\alive\addons\fnc_strategic\indexes\objects.fallujah.sqf
+>>>>>>>>>>>>>>>>>> Copying C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@ALiVE\indexing\fallujah\x\alive\addons\fnc_strategic\indexes\parsed.objects.fallujah.sqf to C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@ALiVE\indexing\fallujah\x\alive\addons\fnc_strategic\indexes\objects.fallujah.sqf
 Parsing Complete
 No Static data file found.
 Starting Cluster Generation, check in game RPT for more details.
@@ -525,8 +525,6 @@ mil Cluster small number erased: _nodes set [count _nodes, ["5478",[3004.89,6311
 civ Cluster small number erased: _nodes set [count _nodes, ["115503",[7849.62,2112.24,1.90735e-006]]];
 civ Cluster small number erased: _nodes set [count _nodes, ["115544",[8077.03,2327.66,9.53674e-007]]];
 civ Cluster small number erased: _nodes set [count _nodes, ["115251",[7982.01,2061.37,9.53674e-007]]];
-civ Cluster small number erased: _nodes set [count _nodes, ["9350",[2466.83,4926.93,-1.90735e-006]]];
-civ Cluster small number erased: _nodes set [count _nodes, ["9349",[2394.09,4928.93,-9.53674e-007]]];
 civ Cluster small number erased: _nodes set [count _nodes, ["140300",[4610.91,4030.76,-9.53674e-007]]];
 civ Cluster small number erased: _nodes set [count _nodes, ["179457",[5494.33,4140.91,-9.53674e-007]]];
 civ Cluster small number erased: _nodes set [count _nodes, ["171122",[5796.62,4114.17,-5.72205e-006]]];
@@ -535,7 +533,7 @@ civ Cluster small number erased: _nodes set [count _nodes, ["170145",[5475.54,46
 civ Cluster small number erased: _nodes set [count _nodes, ["170161",[5462.48,4765.89,-5.72205e-006]]];
 civ Cluster small number erased: _nodes set [count _nodes, ["170147",[5473.55,4645.69,-2.47955e-005]]];
 civ Cluster small number erased: _nodes set [count _nodes, ["185501",[6395.11,4634.15,-9.53674e-007]]];
-civ Cluster small number erased: _nodes set [count _nodes, ["171471",[5925.52,4784.81,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["171471",[5925.52,4784.82,-9.53674e-007]]];
 civ Cluster small number erased: _nodes set [count _nodes, ["171470",[5921.83,4818.91,-9.53674e-007]]];
 civ Cluster small number erased: _nodes set [count _nodes, ["49600",[3526.34,5438.95,-1.90735e-006]]];
 civ Cluster small number erased: _nodes set [count _nodes, ["14765",[4632.47,5429.05,1.90735e-006]]];
@@ -543,10 +541,8 @@ civ Cluster small number erased: _nodes set [count _nodes, ["37039",[4763.7,5579
 civ Cluster small number erased: _nodes set [count _nodes, ["179322",[3439.03,6746.72,-5.72205e-006]]];
 civ Cluster small number erased: _nodes set [count _nodes, ["179301",[3738.52,6819.56,-5.72205e-006]]];
 civ Cluster small number erased: _nodes set [count _nodes, ["179302",[3739.35,6821.54,-2.47955e-005]]];
-civ Cluster small number erased: _nodes set [count _nodes, ["64725",[5851.63,6125.86,-9.53674e-007]]];
 civ Cluster small number erased: _nodes set [count _nodes, ["35921",[5941.46,6417.6,-9.53674e-007]]];
 civ Cluster small number erased: _nodes set [count _nodes, ["45860",[4332.71,5795.41,-3.8147e-006]]];
-civ Cluster small number erased: _nodes set [count _nodes, ["9351",[4516.52,6152.59,-3.8147e-006]]];
 civ Cluster small number erased: _nodes set [count _nodes, ["70231",[6592.53,6516.83,-9.53674e-007]]];
 civ Cluster small number erased: _nodes set [count _nodes, ["80592",[5621.78,2430.68,9.53674e-007]]];
 civ Cluster small number erased: _nodes set [count _nodes, ["140312",[5564.28,2437.06,-9.53674e-007]]];
@@ -632,7 +628,7 @@ civ Cluster small number erased: _nodes set [count _nodes, ["188430",[8264.16,33
 civ Cluster small number erased: _nodes set [count _nodes, ["25305",[3450.75,5142.41,9.53674e-007]]];
 civ Cluster small number erased: _nodes set [count _nodes, ["45860",[4332.71,5795.41,-3.8147e-006]]];
 civ Cluster small number erased: _nodes set [count _nodes, ["185501",[6395.11,4634.15,-9.53674e-007]]];
-civ Cluster small number erased: _nodes set [count _nodes, ["171471",[5925.52,4784.81,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["171471",[5925.52,4784.82,-9.53674e-007]]];
 civ Cluster small number erased: _nodes set [count _nodes, ["171470",[5921.83,4818.91,-9.53674e-007]]];
 civ Cluster small number erased: _nodes set [count _nodes, ["115544",[8077.03,2327.66,9.53674e-007]]];
 civ Cluster small number erased: _nodes set [count _nodes, ["14765",[4632.47,5429.05,1.90735e-006]]];
@@ -645,13 +641,9 @@ civ Cluster small number erased: _nodes set [count _nodes, ["188430",[8264.16,33
 civ Cluster small number erased: _nodes set [count _nodes, ["25305",[3450.75,5142.41,9.53674e-007]]];
 civ Cluster small number erased: _nodes set [count _nodes, ["5491",[2936.2,6270.32,-9.53674e-007]]];
 civ Cluster small number erased: _nodes set [count _nodes, ["45860",[4332.71,5795.41,-3.8147e-006]]];
-civ Cluster small number erased: _nodes set [count _nodes, ["9350",[2466.83,4926.93,-1.90735e-006]]];
-civ Cluster small number erased: _nodes set [count _nodes, ["9349",[2394.09,4928.93,-9.53674e-007]]];
 civ Cluster small number erased: _nodes set [count _nodes, ["179457",[5494.33,4140.91,-9.53674e-007]]];
 civ Cluster small number erased: _nodes set [count _nodes, ["49600",[3526.34,5438.95,-1.90735e-006]]];
-civ Cluster small number erased: _nodes set [count _nodes, ["64725",[5851.63,6125.86,-9.53674e-007]]];
 civ Cluster small number erased: _nodes set [count _nodes, ["35921",[5941.46,6417.6,-9.53674e-007]]];
-civ Cluster small number erased: _nodes set [count _nodes, ["9351",[4516.52,6152.59,-3.8147e-006]]];
 civ Cluster small number erased: _nodes set [count _nodes, ["37039",[4763.7,5579.09,-9.53674e-007]]];
 civ Cluster small number erased: _nodes set [count _nodes, ["53501",[3777.03,4133.72,9.53674e-007]]];
 civ Cluster small number erased: _nodes set [count _nodes, ["14764",[3037.67,5550.07,9.53674e-007]]];

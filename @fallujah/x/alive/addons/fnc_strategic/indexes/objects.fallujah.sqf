@@ -1,9 +1,9 @@
 /*=================*/
-/*opening pbo fallujah1_2.pbo
+/*opening pbo fallujah.pbo
 ///////<HEADER>///////
 prefix=shez\fallujah
 Pbo Type is: Arma Addon
-Sha: '7CD80FB548DDDC043CAAFFE3E5B572433BA71E4C'
+Sha: '579DEF944462197CB5DB05A54435983DE8DB7BDA'
 //////</HEADER>//////
 wrp= ??????
 OPRW Version 24 (binarised)
