@@ -1,0 +1,1296 @@
+>>>>>>>>>>>>>>>>>> Starting Map Index for sehreno on 6/4/2023 8:00:50 AM
+>>>>>>>>>>>>>>>>>> pathToMap: C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@Sehreno\addons\Sehreno.pbo
+>>>>>>>>>>>>>>>>>> root: C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@ALiVE
+>>>>>>>>>>>>>>>>>> folder: C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@ALiVE\indexing
+>>>>>>>>>>>>>>>>>> logfile: C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@ALiVE\indexing\sehreno\log.txt
+>>>>>>>>>>>>>>>>>> indexfile: C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@ALiVE\indexing\sehreno\x\alive\addons\fnc_strategic\indexes\objects.sehreno.sqf
+>>>>>>>>>>>>>>>>>> parsedIndexfile: C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@ALiVE\indexing\sehreno\x\alive\addons\fnc_strategic\indexes\parsed.objects.sehreno.sqf
+>>>>>>>>>>>>>>>>>> blacklist file: C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@ALiVE\alive_object_blacklist.txt
+Executing deWrp: DeWrp.exe -O "C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@Sehreno\addons\Sehreno.pbo"
+deWrp analysis completed
+ ----- Ignoring : 	["a3\vegetation_f_enoch\tree\t_betula_pendula_2f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\tree\t_fagussylvatica_2sb.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\tree\t_betula_pendula_3f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\tree\t_albizia_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\shrub\b_gardenia_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\tree\t_leucaena_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\tree\t_betula_pendula_3s.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\shrub\b_calochlaena_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\shrub\b_cycas_f.p3d",
+ ----- Ignoring : 	["a3\plants_f\tree\t_quercusir2s_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_bootcamp\civ\sportsgrounds\tyrebarrier_01_line_x6_f.p3d",
+ ----- Ignoring : 	["a3\map_tanoabuka\data\roaddecals\rd_line_2m.p3d",
+ ----- Ignoring : 	["a3\structures_f\mil\flags\mast_asym_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\mil_concretewall_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_bootcamp\civ\sportsgrounds\tyrebarrier_01_line_x4_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\pipewall_concretel_8m_f.p3d",
+ ----- Ignoring : 	["a3\rocks_f\sharp\sharprock_wallh.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\concrete_smallwall_8m_f.p3d",
+ ----- Ignoring : 	["a3\map_tanoabuka\data\roaddecals\rd_line_5m.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\cultural\fortress_01\fortress_01_outtercorner_90_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\cultural\fortress_01\fortress_01_10m_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epc\dominants\ghosthotel\gh_stairs_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\garbage\garbagebags_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\garbage\garbagepallet_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\garbage\garbagewashingmachine_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\infrastructure\pavements\concretekerb_02_2m_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epb\civ\garbage\garbagecontainer_closed_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\infrastructure\pavements\concretekerb_02_8m_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epb\civ\garbage\garbagecontainer_open_f.p3d",
+ ----- Ignoring : 	["a3\props_f_exp\civilian\garbage\garbageheap_03_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\naval\canals\canal_dutch_01_bridge_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epc\civ\kiosks\kiosk_gyros_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\cultural\fortress_01\fortress_01_d_r_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\wreck_van_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\cultural\fortress_01\fortress_01_d_l_f.p3d",
+ ----- Ignoring : 	["a3\props_f_exp\civilian\garbage\garbageheap_04_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\wreck_cardismantled_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epb\items\luggage\luggageheap_03_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\wreck_skodovka_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epb\items\luggage\luggageheap_04_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\cultural\fortress_01\fortress_01_5m_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\cultural\fortress_01\fortress_01_innercorner_90_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epc\civ\kiosks\kiosk_redburger_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epc\civ\kiosks\kiosk_blueking_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\statues\maroula_base_f.p3d",
+ ----- Ignoring : 	["jbad_misc\misc_interier\jbad_crates.p3d",
+ ----- Ignoring : 	["jbad_misc\misc_market\jbad_market_stalls_01.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\wreck_truck_dropside_f.p3d",
+ ----- Ignoring : 	["jbad_misc\misc_market\jbad_market_stalls_02.p3d",
+ ----- Ignoring : 	["jbad_misc\misc_market\jbad_cages.p3d",
+ ----- Ignoring : 	["jbad_misc\misc_market\jbad_bags.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\canal_wall_10m_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\canal_wall_stairs_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\naval\piers\sea_wall_f.p3d",
+ ----- Ignoring : 	["jbad_misc\misc_market\jbad_market_shelter.p3d",
+ ----- Ignoring : 	["jbad_misc\misc_market\jbad_stand_small.p3d",
+ ----- Ignoring : 	["jbad_misc\misc_market\jbad_kiosk.p3d",
+ ----- Ignoring : 	["a3\structures_f\training\rampconcrete_f.p3d",
+ ----- Ignoring : 	["a3\map_tanoabuka\data\roaddecals\rd_line_10m.p3d",
+ ----- Ignoring : 	["a3\structures_f\training\blockconcrete_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\civilian\accessories\fireescape_01_short_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epc\dominants\stadium\stadium_p5_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epc\dominants\stadium\stadium_p9_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epc\dominants\stadium\stadium_p4_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epc\dominants\stadium\stadium_p3_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\sportsgrounds\goal_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epc\dominants\stadium\stadium_p6_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\windpowerplant\wpp_turbine_v2_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epa\items\medical\painkillers_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\naval\canals\canal_dutch_01_corner_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\naval\canals\canal_dutch_01_stairs_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\naval\canals\canal_dutch_01_15m_f.p3d",
+ ----- Ignoring : 	["a3\plants_f\bush\b_ficusc2d_f.p3d",
+ ----- Ignoring : 	["a3\plants_f\bush\b_neriumo2d_f.p3d",
+ ----- Ignoring : 	["a3\plants_f\bush\b_ficusc1s_f.p3d",
+ ----- Ignoring : 	["a3\rocks_f\sharp\sharprock_apart.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_argo\bushes\b_opuntiaficusindica3s_f.p3d",
+ ----- Ignoring : 	["a3\rocks_f\sharp\sharpstone_01.p3d",
+ ----- Ignoring : 	["a3\rocks_f\sharp\sharpstone_02.p3d",
+ ----- Ignoring : 	["a3\rocks_f\sharp\sharpstone_03.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\cargo\cargo20_cyan_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\cargo\cargo20_brick_red_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\cargo\cargo20_light_green_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\cargo\cargo20_grey_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\shed\shed_small_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\industrial\pipes\indpipe3_big_18ladder_f.p3d",
+ ----- Ignoring : 	["jbad_misc\misc_lamp\jbad_lamp_street1.p3d",
+ ----- Ignoring : 	["a3\props_f_exp\civilian\garbage\garbageheap_01_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epc\civ\garbage\garbagebin_01_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\wreck_car3_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\wreck_offroad2_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\wreck_truck_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\walls\concrete\camoconcretewall_01_l_4m_v2_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\walls\concrete\camoconcretewall_01_pole_v1_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\wreck_offroad_f.p3d",
+ ----- Ignoring : 	["jbad_misc\misc_market\jbad_stand_water.p3d",
+ ----- Ignoring : 	["jbad_misc\misc_market\jbad_bags_stack.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\garbage\junkpile_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\wreck_brdm2_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\wreck_plane_transport_01_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\wreck_bmp2_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\civilian\accessories\bench_04_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\civilian\accessories\concretetreeplanter_02_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\civilian\accessories\pot_02_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\shrub\b_colored_red_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\shrub\b_colored_yellow_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\naval\canals\canal_dutch_01_plate_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\military\training\target_concrete_support_01_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\military\training\target_concrete_01_v2_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\military\training\target_concrete_01_v1_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\training\shootingpos_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\wreck_hmmwv_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\wreck_ural_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\walls\concrete\camoconcretewall_01_l_4m_v1_f.p3d",
+ ----- Ignoring : 	["a3\map_tanoabuka\data\roaddecals\rd_stop.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\infrastructure\pavements\sidewalk_02_8m_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_argo\civilian\accessories\busstop_01_sign_f.p3d",
+ ----- Ignoring : 	["a3\map_tanoabuka\data\roaddecals\rd_busstop.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\lamps\lampstreet_small_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\constructions\cinderblocks_f.p3d",
+ ----- Ignoring : 	["a3\map_tanoabuka\data\roaddecals\rd_taxi.p3d",
+ ----- Ignoring : 	["a3\map_tanoabuka\data\roaddecals\rd_keepclear.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\canal_wallsmall_10m_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\wall_indcnc_4_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\constructions\pipes_large_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\camping\fieldtoilet_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\constructions\ironpipes_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\constructions\concretepipe_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\industrial\materials\cinderblocks_01_f.p3d",
+ ----- Ignoring : 	["a3\props_f_enoch\infrastructure\traffic\woodenwindbreak_01_f.p3d",
+ ----- Ignoring : 	["jbad_misc\misc_market\jbad_carpet_rack.p3d",
+ ----- Ignoring : 	["a3\structures_f\dominants\castle\castle_01_house_ruin_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\dominants\castle\castle_01_church_a_ruin_f.p3d",
+ ----- Ignoring : 	["a3\plants_f\clutter\c_seaweed1.p3d",
+ ----- Ignoring : 	["a3\plants_f\clutter\c_coral1.p3d",
+ ----- Ignoring : 	["a3\plants_f\clutter\c_coral_sps_pink_set.p3d",
+ ----- Ignoring : 	["a3\plants_f\clutter\c_coral5.p3d",
+ ----- Ignoring : 	["a3\plants_f\clutter\c_coral3.p3d",
+ ----- Ignoring : 	["a3\structures_f\dominants\castle\castle_01_church_ruin_f.p3d",
+ ----- Ignoring : 	["a3\plants_f\clutter\c_urchin_black_grp.p3d",
+ ----- Ignoring : 	["a3\plants_f\clutter\c_seadollars_set1.p3d",
+ ----- Ignoring : 	["a3\plants_f\clutter\c_urchin_red_grp.p3d",
+ ----- Ignoring : 	["a3\plants_f\clutter\c_corals_set_t.p3d",
+ ----- Ignoring : 	["a3\plants_f\bush\bw_setbig_corals_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\dominants\castle\castle_01_wall_04_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\lamps\lampdecor_f.p3d",
+ ----- Ignoring : 	["a3\rocks_f_enoch\rm_boulder4.p3d",
+ ----- Ignoring : 	["a3\structures_f\dominants\castle\castle_01_wall_05_f.p3d",
+ ----- Ignoring : 	["a3\plants_f\clutter\c_coral_brain_flat_set1.p3d",
+ ----- Ignoring : 	["a3\structures_f\dominants\castle\castle_01_wall_03_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\dead\humanskeleton_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\dominants\castle\castle_01_wall_02_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\infrastructure\pavements\gardenpavement_02_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\dominants\castle\castle_01_church_b_ruin_f.p3d",
+ ----- Ignoring : 	["a3\props_f_exp\naval\boats\boat_03_abandoned_cover_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\cultural\fortress_01\fortress_01_cannon_f.p3d",
+ ----- Ignoring : 	["a3\rocks_f_exp\cliff\cliff_boulder_f.p3d",
+ ----- Ignoring : 	["a3\props_f_exp\naval\boats\boat_04_wreck_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\dominants\castle\castle_01_wall_01_f.p3d",
+ ----- Ignoring : 	["a3\plants_f\clutter\c_starfish1.p3d",
+ ----- Ignoring : 	["a3\props_f_exp\commercial\market\woodencounter_01_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epb\naval\fishing\crabcages_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\constructions\wheelcart_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\market\marketshelter_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\dominants\castle\castle_01_wall_14_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\market\cages_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\dominants\castle\castle_01_wall_13_f.p3d",
+ ----- Ignoring : 	["a3\rocks_f_enoch\rm_boulder5.p3d",
+ ----- Ignoring : 	["a3\structures_f\dominants\castle\castle_01_wall_10_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\wreck_car2_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\garbage\tyres_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\wall_indcnc_pole_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\industrial\port\walkover_01_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\bargate_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\lamps\lampstreet_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_argo\signs\warnings\signm_warningmilitaryarea_english_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\constructions\coil_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\constructions\workstand_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\cargo\cargo20_light_blue_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\cargo\cargo40_white_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\cargo\cargo40_military_green_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\cargo\cargo40_sand_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\cargo\cargo40_yellow_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\infrastructure\runways\taxiway_01_edgeline_20m_f.p3d",
+ ----- Ignoring : 	["a3\roads_f\runway\runwaylights\runway_edgelight_blue_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\infrastructure\runways\taxiway_01_centerline_90deg_f.p3d",
+ ----- Ignoring : 	["a3\roads_f\runway\runwaylights\flush_light_green_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\infrastructure\runways\taxiway_01_centerline_20m_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\infrastructure\runways\taxiway_01_edgeline_10m_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\infrastructure\runways\taxiway_01_edgeline_45deg_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\airport\airport_left_f.p3d",
+ ----- Ignoring : 	["a3\roads_f\runway\runwaylights\flush_light_yellow_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\infrastructure\runways\taxiway_01_edgeline_5m_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\infrastructure\runways\taxiway_01_holdline_20m_f.p3d",
+ ----- Ignoring : 	["a3\roads_f\runway\runwaylights\naviglight_3_f.p3d",
+ ----- Ignoring : 	["a3\roads_f\runway\runwaylights\naviglight.p3d",
+ ----- Ignoring : 	["a3\roads_f\runway\runwaylights\runway_edgelight.p3d",
+ ----- Ignoring : 	["a3\structures_f_argo\signs\warnings\signm_warningmilareasmall_english_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\airport\airport_right_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epb\items\luggage\luggageheap_02_f.p3d",
+ ----- Ignoring : 	["a3\props_f_exp\civilian\garbage\garbageheap_02_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_argo\civilian\garbage\garbagebarrel_01_english_f.p3d",
+ ----- Ignoring : 	["a3\rocks_f\sharp\sharprock_spike.p3d",
+ ----- Ignoring : 	["a3\structures_f\naval\piers\pier_addon.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\bush\b_prunusspinosa_2s.p3d",
+ ----- Ignoring : 	["a3\structures_f\mil\bagfence\bagfence_long_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\bush\b_prunusspinosa_1s.p3d",
+ ----- Ignoring : 	["jbad_misc\misc_fueltank\jbad_ind_tanksmall2.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\wall_indcnc_2deco_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\mil_wiredfence_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\walls\concrete\concretewall_01_l_pole_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\mil_wiredfenced_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\constructions\pallets_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\naval\piers\pillar_pier_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\cargo\cargo20_military_green_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\cargo\cargo20_orange_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\cargo\cargo20_red_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\cargo\cargo20_sand_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\naval\piers\pierladder_f.p3d",
+ ----- Ignoring : 	["a3\rocks_f\sharp\sharprock_wallv.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\factory\factory_conv1_end_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\industrial\mines\mine_01_rail_track_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\walls\concrete\camoconcretewall_01_l_4m_d_v1_f.p3d",
+ ----- Ignoring : 	["jbad_misc\misc_garbage\jbad_misc_garb_heap.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\wall_indcnc_4_d_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_argo\trees\t_cupressus_stricta_3s_f.p3d",
+ ----- Ignoring : 	["jbad_misc\misc_well\jbad_misc_well_c.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_argo\trees\t_cupressus_stricta_2s_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\lamps\lamphalogen_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\lamps\lampshabby_f.p3d",
+ ----- Ignoring : 	["jbad_structures\opxmisc2\signs\jbad_opx2_warning.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\civilian\accessories\treegrate_01_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\tree\t_malusdomestica_3s.p3d",
+ ----- Ignoring : 	["a3\structures_f_epc\civ\kiosks\kiosk_papers_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\cncbarrier_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\market\cratesplastic_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\items\vessels\metalbarrel_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\market\crateswooden_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\market\sacks_goods_f.p3d",
+ ----- Ignoring : 	["a3\props_f_enoch\military\garbage\garbagebarrel_02_f.p3d",
+ ----- Ignoring : 	["a3\props_f_exp\commercial\market\woodencrate_01_stack_x3_f.p3d",
+ ----- Ignoring : 	["a3\props_f_exp\commercial\market\woodencrate_01_stack_x5_f.p3d",
+ ----- Ignoring : 	["a3\props_f_exp\commercial\market\woodencrate_01_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\training\target_popup_f.p3d",
+ ----- Ignoring : 	["jbad_structures\ind\ind_fuelstation\jbad_ind_fuelstation_sign.p3d",
+ ----- Ignoring : 	["a3\rocks_f\sharp\sharprock_monolith.p3d",
+ ----- Ignoring : 	["a3\structures_f_epc\dominants\ghosthotel\gh_mainbuilding_right_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epc\dominants\ghosthotel\gh_mainbuilding_middle_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epc\dominants\ghosthotel\gh_fountain_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epc\dominants\ghosthotel\gh_house_1_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epc\dominants\ghosthotel\gh_house_2_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epc\dominants\ghosthotel\gh_gazebo_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epc\dominants\ghosthotel\gh_mainbuilding_left_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\infrastructure\pavements\concretekerb_01_8m_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epa\civ\constructions\pallets_stack_f.p3d",
+ ----- Ignoring : 	["a3\signs_f\signt\roadbarrier_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\cncbarrier_stripes_f.p3d",
+ ----- Ignoring : 	["a3\signs_f\signt\roadbarrier_small_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\sportsgrounds\tribune_f.p3d",
+ ----- Ignoring : 	["jbad_structures\walls\wall_l\jbad_wall_l3_5m.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\wall_indcnc_end_2_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\mil\bagfence\bagfence_round_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\mil\bagfence\bagfence_short_f.p3d",
+ ----- Ignoring : 	["jbad_structures\walls\wall_l\jbad_wall_l3_pillar.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\tree\t_malusdomestica_2s.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\tree\t_pyruscommunis_2s.p3d",
+ ----- Ignoring : 	["jbad_misc\misc_fountain\jbad_kasna_new.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\infrastructure\pavements\concretekerb_01_2m_f.p3d",
+ ----- Ignoring : 	["jbad_misc\misc_lamp\jbad_lamp_street2.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\tree\t_fagussylvatica_2s.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\tree\t_piceaabies_1sb.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\tree\t_piceaabies_2sb.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\tree\t_piceaabies_2s.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\tree\t_juglansregia_2s.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\tree\t_pyruscommunis_3s.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\tree\t_piceaabies_3s.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\tree\t_piceaabies_1s.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\tree\t_juglansregia_3s.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\bush\b_corylus_heterophylla_2.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\tree\t_piceaabies_1f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\tree\t_sorbus2s.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\tree\t_fagussylvatica_3s.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\market\woodencart_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\civilian\accessories\pot_01_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\cultural\fortress_01\fortress_01_bricks_v2_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\cultural\fortress_01\fortress_01_bricks_v1_f.p3d",
+ ----- Ignoring : 	["jbad_misc\misc_interier\jbad_bench.p3d",
+ ----- Ignoring : 	["a3\structures_f_heli\civ\garbage\wheeliebin_01_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\infrastructure\powerlines\powerline_02_pole_small_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\cargo\cargo40_light_green_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\infrastructure\powerlines\powerline_02_pole_small_a_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\tank\tank_rust_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\infrastructure\powerlines\powerline_02_pole_small_end_a_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\bush\b_sambucusnigra_1s.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\infrastructure\powerlines\powerline_02_pole_small_lamp_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\civilian\accessories\concretewell_02_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\civilian\accessories\firewoodpile_01_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\cargo\cargo40_light_blue_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\cargo\cargo20_blue_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\furniture\cases\sarcophagus\sarcophagus.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\cargo\cargo20_yellow_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\furniture\chairplastic_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epa\civ\camping\woodentable_small_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\camping\sunshade_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\statues\maroula_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\walls\concrete\concretewall_01_m_8m_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\pipes\indpipe1_valve_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\tree\t_pinussylvestris_3fb.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\tree\t_pinussylvestris_2f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\tree\t_pinussylvestris_2s.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\tree\t_pinussylvestris_2sb.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\tree\t_pinussylvestris_1s.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\tree\t_pinussylvestris_2fb.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\tree\t_pinussylvestris_1f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\military\radar\radar_01_antenna_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\military\radar\radar_01_antenna_base_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\naval\buoys\buoybig_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\civilian\accessories\drytoilet_01_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\walls\concrete\silagewall_01_l_5m_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\walls\concrete\silagewall_01_l_pole_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epb\naval\fishing\fishinggear_02_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epb\naval\fishing\fishinggear_01_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\pipe_fence_4m_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\commercial\hotel_02\hotel_02_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\dead\humanskull_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epb\civ\dead\grave_forest_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\tree\t_stub_picea.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\civilian\accessories\gasmetercabinet_01_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\infrastructure\watersupply\windmillpump_01_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\infrastructure\lamps\lampstreet_02_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\tree\t_salix2s.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\infrastructure\lamps\lampstreet_02_triple_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\households\slum\cargo_addon01_v1_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epc\civ\accessories\bench_01_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\households\slum\cargo_addon01_v2_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\furniture\bathroom\toilet_b_02\toilet_b_02.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\furniture\school_equipment\lab_sink.p3d",
+ ----- Ignoring : 	["a3\structures_f\households\slum\cargo_addon02_v1_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\households\slum\cargo_addon02_v2_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\furniture\school_equipment\student_chair.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\infrastructure\pavements\concretekerb_01_4m_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\bush\b_betula_nana.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\ruins\churchruin_01_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\infrastructure\pavements\concretepavement_01_narrow_corner_f.p3d",
+ ----- Ignoring : 	["jbad_structures\walls\wall_l\jbad_wall_l1_pillar.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\wreck_t72_hull_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\uwreck_mv22_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\wreck_t72_turret_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\infrastructure\runways\taxiway_01_centerline_45deg_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\infrastructure\runways\taxiway_01_edgeline_90deg_f.p3d",
+
+List of objects remaining:
+	["a3\structures_f_kart\civ\sportsgrounds\plasticbarrier_03_f.p3d",
+	["a3\structures_f_exp\commercial\fuelstation_01\fuelstation_01_workshop_f.p3d",
+	["a3\structures_f_exp\commercial\fuelstation_01\fuelstation_01_shop_f.p3d",
+	["a3\structures_f_kart\civ\sportsgrounds\finishgate_01_narrow_f.p3d",
+	["a3\structures_f\ind\airport\airport_tower_f.p3d",
+	["a3\structures_f_exp\infrastructure\bridges\bridgesea_01_ramp_f.p3d",
+	["a3\structures_f_exp\infrastructure\bridges\bridgesea_01_pillar_f.p3d",
+	["a3\structures_f_exp\infrastructure\bridges\bridgesea_01_ramp_up_f.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_garages.p3d",
+	["a3\structures_f_exp\infrastructure\airports\airport_02_terminal_f.p3d",
+	["a3\structures_f_enoch\walls\brick\brickwall_03_l_5m_v2_f.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_complex6.p3d",
+	["a3\structures_f_enoch\walls\brick\brickwall_03_l_pole_f.p3d",
+	["a3\structures_f_enoch\walls\brick\brickwall_03_l_5m_v2_d_f.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_complex8.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_complex2.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_complex4.p3d",
+	["a3\structures_f_enoch\walls\brick\brickwall_03_l_5m_v1_d_f.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_corner1.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_policestation.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_complex5.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_store1.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_shop1.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_complex1.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_shrine.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_stores.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_shop2.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_stores3.p3d",
+	["a3\structures_f_argo\cultural\statues\pedestal_01_f.p3d",
+	["a3\structures_f_argo\cultural\statues\statue_02_f.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_parkinghouse.p3d",
+	["a3\structures_f\naval\piers\pier_f.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_radiomast.p3d",
+	["a3\structures_f\civ\lamps\lampstadium_f.p3d",
+	["a3\structures_f_argo\commercial\billboards\billboard_02_blank_f.p3d",
+	["a3\map_tanoabuka\data\roaddecals\rd_linec_45deg.p3d",
+	["a3\structures_f_argo\commercial\billboards\billboard_03_blank_f.p3d",
+	["a3\map_tanoabuka\data\roaddecals\rd_linec_90deg.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_hut4.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_hut_invert1.p3d",
+	["jbad_structures\ind\ind_workshop01\jbad_ind_workshop01_02.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_hut2.p3d",
+	["jbad_structures\ind\ind_workshop01\jbad_ind_workshop01_03.p3d",
+	["a3\structures_f_exp\industrial\port\mobilecrane_01_f.p3d",
+	["a3\structures_f_enoch\industrial\dieselpowerplant_01\dp_smalltank_old_f.p3d",
+	["a3\structures_f_exp\industrial\sugarcanefactory_01\scf_01_warehouse_f.p3d",
+	["a3\structures_f_exp\industrial\sugarcanefactory_01\scf_01_generalbuilding_f.p3d",
+	["a3\structures_f_enoch\industrial\cementworks\cementworks_01_grey_f.p3d",
+	["a3\structures_f_enoch\industrial\smokestacks\smokestack_01_f.p3d",
+	["a3\structures_f\ind\shed\shed_big_f.p3d",
+	["a3\structures_f_exp\industrial\sugarcanefactory_01\scf_01_boilerbuilding_f.p3d",
+	["a3\structures_f_enoch\industrial\dieselpowerplant_01\dp_bigtank_old_f.p3d",
+	["a3\structures_f_enoch\industrial\garages\garagerow_01_large_f.p3d",
+	["a3\structures_f\households\wip\unfinished_building_01_f.p3d",
+	["a3\structures_f\households\wip\unfinished_building_02_f.p3d",
+	["a3\structures_f_exp\walls\wooden\woodenwall_01_m_8m_f.p3d",
+	["jbad_structures\afghan_houses_c\jbad_house_c_2.p3d",
+	["jbad_structures\afghan_houses_c\jbad_house_c_10.p3d",
+	["jbad_structures\afghan_houses_c\jbad_house_c_11.p3d",
+	["jbad_structures\afghan_houses_c\jbad_house_c_5_v3.p3d",
+	["jbad_structures\afghan_houses_c\jbad_house_c_5_v1.p3d",
+	["jbad_structures\afghan_houses_c\jbad_house_c_12.p3d",
+	["jbad_structures\afghan_houses_c\jbad_house_c_5.p3d",
+	["jbad_structures\afghan_houses_c\jbad_house_c_9.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_shop3b.p3d",
+	["jbad_structures\afghan_houses_c\jbad_house_c_3.p3d",
+	["a3\structures_f_enoch\walls\brick\brickwall_03_l_5m_v1_f.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_shop3.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_complex9.p3d",
+	["a3\props_f_exp\industrial\heavyequipment\combineharvester_01_wreck_f.p3d",
+	["a3\structures_f_argo\industrial\agriculture\barn_01_brown_f.p3d",
+	["jbad_structures\afghan_houses_c\jbad_house_c_5_v2.p3d",
+	["sehreno_objects\bridges\rnc_most_bez_lamp.p3d",
+	["jbad_structures\ind\ind_shed\jbad_ind_shed_01.p3d",
+	["a3\structures_f_enoch\industrial\smokestacks\smokestack_03_f.p3d",
+	["jbad_structures\ind\ind_oil_mine\jbad_ind_oil_tower.p3d",
+	["jbad_structures\ind\ind_oil_mine\jbad_ind_oil_pump.p3d",
+	["jbad_structures\mil\jbad_mil_house.p3d",
+	["jbad_structures\ind\ind_workshop01\jbad_ind_workshop01_l.p3d",
+	["jbad_structures\ind\ind_workshop01\jbad_ind_workshop01_04.p3d",
+	["jbad_structures\mil\jbad_mil_guardhouse.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_cornershop1.p3d",
+	["jbad_structures\mosque_big\jbad_mosque_big_minaret_2.p3d",
+	["a3\structures_f_epb\items\luggage\luggageheap_01_f.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_h2.p3d",
+	["jbad_structures\mosque_big\jbad_mosque_big_addon.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_h3.p3d",
+	["jbad_structures\mosque_big\jbad_mosque_big_hq.p3d",
+	["a3\structures_f\dominants\wip\wip_f.p3d",
+	["a3\structures_f\mil\cargo\cargo_patrol_v3_f.p3d",
+	["jbad_structures\mil\jbad_mil_barracks.p3d",
+	["jbad_structures\ind\ind_shed\jbad_ind_shed_02.p3d",
+	["jbad_structures\afghan_houses_c\jbad_house_c_1.p3d",
+	["a3\structures_f_enoch\wrecks\v3s_wreck_f.p3d",
+	["a3\structures_f_enoch\military\training\shootingpos_roof_01_f.p3d",
+	["a3\structures_f_exp\military\barracks_01\barracks_01_grey_f.p3d",
+	["a3\structures_f_enoch\military\radar\radar_01_hq_f.p3d",
+	["a3\structures_f_enoch\military\radar\mobileradar_01_radar_f.p3d",
+	["a3\structures_f_exp\infrastructure\airports\airport_01_hangar_f.p3d",
+	["a3\structures_f_enoch\industrial\mines\mine_01_heap_f.p3d",
+	["a3\props_f_exp\industrial\heavyequipment\bulldozer_01_wreck_f.p3d",
+	["a3\map_tanoabuka\data\roaddecals\arrow_right.p3d",
+	["a3\roads_f\decals\decal_white_line_f.p3d",
+	["a3\map_tanoabuka\data\roaddecals\arrow_left.p3d",
+	["a3\map_tanoabuka\data\roaddecals\arrow_strleft.p3d",
+	["jbad_vehicles\trailers\jbad_gravel_trailer.p3d",
+	["a3\props_f_exp\industrial\heavyequipment\excavator_01_wreck_f.p3d",
+	["a3\structures_f\ind\crane\crane_f.p3d",
+	["jbad_vehicles\trailers\jbad_freight_trailer.p3d",
+	["a3\structures_f_enoch\civilian\constructions\scaffolding_new_f.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_construct1.p3d",
+	["a3\structures_f_argo\decals\horizontal\pedestriancrossing_01_6m_6str_f.p3d",
+	["a3\structures_f_argo\decals\horizontal\pedestriancrossing_01_8m_10str_f.p3d",
+	["a3\map_tanoabuka\data\roaddecals\arrow_strright.p3d",
+	["a3\structures_f\dominants\hospital\hospital_side1_f.p3d",
+	["a3\structures_f\dominants\hospital\hospital_main_f.p3d",
+	["a3\structures_f\dominants\hospital\hospital_side2_f.p3d",
+	["a3\structures_f_exp\industrial\sugarcanefactory_01\scf_01_condenser_f.p3d",
+	["a3\structures_f_exp\industrial\sugarcanefactory_01\scf_01_pipe_end_f.p3d",
+	["a3\structures_f_exp\industrial\sugarcanefactory_01\scf_01_crystallizertowers_f.p3d",
+	["a3\structures_f_exp\industrial\sugarcanefactory_01\scf_01_crystallizer_f.p3d",
+	["a3\structures_f_exp\industrial\sugarcanefactory_01\scf_01_pipe_8m_high_f.p3d",
+	["a3\structures_f_exp\industrial\sugarcanefactory_01\scf_01_pipe_24m_high_f.p3d",
+	["jbad_structures\ind\hangar_2\jbad_hangar_2.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_apartmentcomplex5.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_construct4.p3d",
+	["a3\structures_f_argo\industrial\materials\woodenplanks_01_pine_f.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_apartmentcomplex_wip.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_construct2.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_apartmentcomplex_ruins.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_shop2_ruins.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_complex5_ruins.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_stores2_ruins.p3d",
+	["a3\structures_f_enoch\industrial\agriculture\haybale_01_stack_f.p3d",
+	["a3\structures_f_enoch\industrial\dieselpowerplant_01\dpp_01_mainfactory_old_f.p3d",
+	["a3\structures_f\dominants\castle\castle_01_tower_f.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_hut3.p3d",
+	["a3\structures_f_enoch\industrial\coalplant_01\coalplant_01_mainbuilding_f.p3d",
+	["a3\structures_f_exp\civilian\house_native_02\house_native_02_ruins_f.p3d",
+	["a3\structures_f_exp\cultural\ancientrelics\ancienthead_01_f.p3d",
+	["a3\structures_f_exp\cultural\ancientrelics\ancientstatue_01_f.p3d",
+	["a3\structures_f_exp\cultural\ancientrelics\ancientstatue_02_f.p3d",
+	["a3\structures_f\dominants\lighthouse\lighthouse_f.p3d",
+	["a3\props_f_enoch\military\decontamination\sponge_01_f.p3d",
+	["a3\props_f_enoch\civilian\forest\deerskeleton_full_01_f.p3d",
+	["a3\structures_f_exp\cultural\ancientrelics\stonetanoa_01_f.p3d",
+	["jbad_structures\afghan_houses_c\jbad_house_c_4.p3d",
+	["jbad_structures\afghan_houses_c\jbad_house_c_1_v2.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_hut1.p3d",
+	["a3\structures_f\ind\dieselpowerplant\dp_smalltank_f.p3d",
+	["a3\structures_f_exp\industrial\sugarcanefactory_01\scf_01_pipe_8m_f.p3d",
+	["a3\structures_f\mil\barracks\i_barracks_v2_f.p3d",
+	["a3\structures_f_exp\commercial\warehouses\warehouse_03_f.p3d",
+	["a3\structures_f_exp\industrial\port\guardhouse_01_f.p3d",
+	["a3\structures_f\ind\shed\u_shed_ind_f.p3d",
+	["a3\structures_f_exp\industrial\sugarcanefactory_01\scf_01_pipe_up_f.p3d",
+	["a3\structures_f\ind\shed\i_shed_ind_f.p3d",
+	["a3\map_tanoabuka\data\roaddecals\arrow_stright.p3d",
+	["a3\structures_f_exp\infrastructure\airports\airport_02_hangar_right_f.p3d",
+	["a3\structures_f_exp\infrastructure\airports\airport_02_hangar_left_f.p3d",
+	["a3\structures_f\ind\airport\airport_center_f.p3d",
+	["a3\props_f_jets\military\tractor\land_decktractor_01_f.p3d",
+	["a3\structures_f_exp\infrastructure\runways\runway_01_centerline_20m_f.p3d",
+	["a3\structures_f_exp\infrastructure\runways\runway_01_40m_end_f.p3d",
+	["a3\structures_f_exp\infrastructure\runways\runway_01_threshold_20m_f.p3d",
+	["a3\structures_f_exp\infrastructure\runways\runway_01_40m_f.p3d",
+	["a3\structures_f_exp\infrastructure\runways\runwaydigit_0_f.p3d",
+	["a3\structures_f_exp\infrastructure\runways\runwaydigit_9_f.p3d",
+	["a3\structures_f_exp\infrastructure\runways\runway_01_40m_skids_end_f.p3d",
+	["a3\structures_f_exp\infrastructure\runways\runway_01_40m_skids_f.p3d",
+	["a3\structures_f\mil\radar\radar_f.p3d",
+	["a3\structures_f\ind\airport\hangar_f.p3d",
+	["jbad_structures\afghan_house_a\a_stationhouse\jbad_a_stationhouse.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_stores2.p3d",
+	["a3\structures_f_enoch\industrial\houses\workshop_03_grey_f.p3d",
+	["a3\structures_f_enoch\industrial\houses\workshop_05_f.p3d",
+	["a3\structures_f_enoch\infrastructure\lamps\lampindustrial_01_f.p3d",
+	["a3\structures_f\mil\helipads\helipadcircle_f.p3d",
+	["a3\structures_f_enoch\industrial\houses\workshop_02_f.p3d",
+	["a3\structures_f_enoch\industrial\houses\workshop_03_f.p3d",
+	["a3\structures_f_enoch\industrial\houses\workshop_04_grey_f.p3d",
+	["a3\structures_f_exp\industrial\port\mobilecrane_01_hook_f.p3d",
+	["a3\structures_f_enoch\industrial\houses\workshop_01_f.p3d",
+	["a3\structures_f_enoch\military\airfield\controltower_02_f.p3d",
+	["a3\structures_f_enoch\military\barracks\barracks_04_f.p3d",
+	["a3\structures_f_enoch\industrial\houses\workshop_02_grey_f.p3d",
+	["a3\structures_f_enoch\military\barracks\barracks_06_f.p3d",
+	["a3\structures_f_enoch\military\barracks\guardhouse_02_grey_f.p3d",
+	["a3\structures_f_enoch\industrial\sheds\industrialshed_01_f.p3d",
+	["a3\structures_f_enoch\military\barracks\barracks_03_f.p3d",
+	["a3\structures_f_exp\industrial\surfacemine_01\sm_01_shelter_narrow_f.p3d",
+	["a3\structures_f_enoch\military\barracks\guardtower_02_f.p3d",
+	["a3\structures_f_enoch\industrial\pipes\indpipe3_big_ground2_f.p3d",
+	["a3\structures_f_enoch\industrial\pipes\indpipe3_big_18_f.p3d",
+	["a3\structures_f_enoch\industrial\pipes\indpipe3_big_ground1_f.p3d",
+	["a3\structures_f_enoch\industrial\sheds\i_shed_ind_old_f.p3d",
+	["a3\structures_f_exp\industrial\sugarcanefactory_01\scf_01_pipe_24m_f.p3d",
+	["a3\structures_f_enoch\walls\pipe\pipefence_05_m_gate_l_f.p3d",
+	["a3\structures_f_enoch\military\barracks\barracks_05_f.p3d",
+	["a3\structures_f_enoch\military\radar\radar_01_kitchen_f.p3d",
+	["a3\structures_f_enoch\walls\pipe\pipefence_05_m_gate_r_f.p3d",
+	["a3\structures_f_enoch\military\barracks\controltower_01_f.p3d",
+	["a3\structures_f\ind\solarpowerplant\spp_transformer_f.p3d",
+	["a3\structures_f_enoch\industrial\houses\workshop_04_f.p3d",
+	["a3\structures_f_enoch\industrial\garages\garageoffice_01_f.p3d",
+	["a3\structures_f_enoch\industrial\houses\workshop_05_grey_f.p3d",
+	["a3\structures_f_enoch\industrial\coalplant_01\coalplant_01_conveyor_f.p3d",
+	["a3\structures_f_enoch\industrial\mines\mine_01_conveyor_begin_f.p3d",
+	["a3\structures_f_enoch\industrial\mines\mine_01_rail_track_end_f.p3d",
+	["a3\structures_f\ind\factory\factory_tunnel_f.p3d",
+	["a3\structures_f_enoch\industrial\mines\mine_01_minecart_f.p3d",
+	["a3\structures_f_enoch\military\barracks\guardtower_01_f.p3d",
+	["a3\structures_f\ind\transmitter_tower\tbox_f.p3d",
+	["a3\structures_f\ind\transmitter_tower\ttowerbig_1_f.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_garage1.p3d",
+	["a3\structures_f_orange\industrial\cargo\cargo20_idap_f.p3d",
+	["a3\structures_f\ind\reservoirtank\reservoirtower_f.p3d",
+	["a3\structures_f_enoch\walls\brick\brickwall_01_l_corner_f.p3d",
+	["a3\structures_f_enoch\walls\brick\brickwall_01_l_5m_f.p3d",
+	["jbad_structures\ind\ind_coltan_mine\jbad_misc_coltan_heap.p3d",
+	["a3\structures_f_exp\walls\hedges\hedge_01_s_4m_f.p3d",
+	["a3\structures_f_enoch\walls\brick\brickwall_01_l_pole_f.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_long1.p3d",
+	["jbad_structures\afghan_house_a\a_minaret_porto\jbad_a_minaret_porto.p3d",
+	["a3\structures_f_enoch\wrecks\mi8_wreck_f.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_construct3.p3d",
+	["jbad_structures\afghan_houses_c2\jbad_dum_istan2.p3d",
+	["a3\structures_f_enoch\military\training\craterlong_02_f.p3d",
+	["a3\structures_f_argo\decals\horizontal\pedestriancrossing_01_6m_4str_f.p3d",
+	["a3\structures_f_enoch\military\training\craterlong_02_small_f.p3d",
+	["jbad_structures\opxmisc2\stuff\jbad_opx2_carton.p3d",
+	["jbad_structures\opxmisc2\stuff\jbad_opx2_carton2.p3d",
+	["jbad_structures\opxmisc2\stuff\jbad_opx2_cart2.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_big_d.p3d",
+	["jbad_structures\afghan_house_a\a_villa\jbad_a_villa.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_apartmentcomplex.p3d",
+	["jbad_structures\opxmisc2\stuff\jbad_opx2_cart3.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_watertower.p3d",
+	["jbad_structures\ind\ind_fuelstation\jbad_ind_fuelstation_feed.p3d",
+	["jbad_structures\ind\ind_fuelstation\jbad_ind_fuelstation_shed.p3d",
+	["jbad_structures\ind\ind_fuelstation\jbad_ind_fuelstation_build.p3d",
+	["a3\structures_f\ind\transmitter_tower\ttowerbig_2_f.p3d",
+	["sehreno_objects\bridges\rnc_kamenny_most30v2.p3d",
+	["a3\structures_f\ind\solarpowerplant\spp_panel_f.p3d",
+	["a3\structures_f\ind\solarpowerplant\solarpanel_1_f.p3d",
+	["a3\structures_f_orange\walls\plastic\plasticnetfence_01_long_d_f.p3d",
+	["a3\structures_f_orange\walls\plastic\plasticnetfence_01_long_f.p3d",
+	["jbad_structures\afghan_house_a\a_mosque_small\jbad_a_mosque_small_1.p3d",
+	["jbad_structures\afghan_house_a\a_mosque_small\jbad_a_mosque_small_2.p3d",
+	["a3\structures_f_argo\industrial\materials\woodenplanks_01_messy_pine_f.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_h1.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_tower1.p3d",
+	["a3\structures_f_enoch\walls\brick\brickwall_02_l_end_f.p3d",
+	["a3\structures_f_enoch\industrial\farms\barn_03_small_f.p3d",
+	["jbad_structures\afghan_house_a\a_minaret\jbad_a_minaret.p3d",
+	["jbad_structures\generalstore\jbad_a_generalstore_01a.p3d",
+	["a3\structures_f_exp\infrastructure\runways\runwaydigit_7_f.p3d",
+	["a3\structures_f_exp\infrastructure\runways\runwaydigit_2_f.p3d",
+	["a3\structures_f_enoch\industrial\agriculture\feedstorage_01_f.p3d",
+	["jbad_structures\afghan_houses_c\jbad_house_c_10_dam_v2.p3d",
+	["jbad_structures\afghan_houses_c\jbad_house_c_9_dam_v2.p3d",
+	["sehreno_objects\bridges\rnc_kamenny_most30.p3d",
+	["a3\structures_f_enoch\military\bunkers\bunker_02_light_double_f.p3d",
+	["a3\structures_f_enoch\military\barracks\guardhouse_02_f.p3d",
+	["a3\structures_f_enoch\ruins\houseruin_big_02_f.p3d",
+	["a3\structures_f_exp\walls\pipe\pipefence_02_s_4m_f.p3d",
+	["a3\structures_f_argo\commercial\supermarket_01\supermarket_01_malden_f.p3d",
+	["a3\structures_f_exp\walls\pipe\pipefence_02_s_8m_f.p3d",
+	["a3\structures_f_enoch\walls\brick\brickwall_02_l_5m_f.p3d",
+	["jbad_structures\opxmisc2\stuff\jbad_opx2_cart.p3d",
+	["jbad_structures\opxbuildings2\jbad_opx2_complex3.p3d",
+	["a3\structures_f_enoch\military\bunkers\bunker_02_light_left_f.p3d",
+	["a3\structures_f_enoch\walls\brick\brickwall_04_l_5m_old_f.p3d",
+	["a3\structures_f_enoch\military\bunkers\bunker_02_light_right_f.p3d",
+	["a3\structures_f_enoch\military\barracks\guardhouse_03_f.p3d",
+	["a3\structures_f_enoch\walls\brick\brickwall_04_l_pole_old_f.p3d",
+	["a3\structures_f_enoch\ruins\houseruin_big_01_f.p3d",
+	["a3\structures_f_enoch\ruins\houseruin_big_03_f.p3d",
+	["jbad_vehicles\trailers\jbad_fuel_tanker.p3d",
+	["a3\structures_f_enoch\industrial\power\substation_01_f.p3d",
+	["a3\structures_f_enoch\commercial\fuelstation_03\fuelstation_03_pump_f.p3d",
+	["a3\structures_f_enoch\commercial\fuelstation_03\fuelstation_03_roof_f.p3d",
+	["a3\structures_f_enoch\commercial\fuelstation_03\fuelstation_03_shop_f.p3d",
+	["a3\structures_f_enoch\civilian\sheds\shed_14_f.p3d",
+	["a3\structures_f_enoch\walls\wooden\woodenwall_04_s_5m_f.p3d",
+	["a3\structures_f_enoch\civilian\houses\house_2b02_f.p3d",
+	["a3\structures_f_enoch\ruins\houseruin_big_01_half_f.p3d",
+	["a3\structures_f_enoch\walls\wooden\woodenwall_03_s_5m_v2_f.p3d",
+	["a3\structures_f_enoch\walls\wooden\woodenwall_05_m_4m_v1_f.p3d",
+	["a3\structures_f_enoch\ruins\houseruin_big_03_half_f.p3d",
+	["a3\structures_f_enoch\civilian\houses\house_1w08_f.p3d",
+	["a3\structures_f_enoch\civilian\houses\house_1w04_f.p3d",
+	["a3\structures_f_enoch\civilian\houses\house_1w05_f.p3d",
+	["a3\structures_f_enoch\walls\wooden\woodenwall_05_m_d_4m_f.p3d",
+	["a3\structures_f_enoch\civilian\sheds\shed_12_f.p3d",
+	["a3\structures_f_enoch\civilian\houses\house_1w07_f.p3d",
+	["a3\structures_f_enoch\civilian\sheds\shed_11_f.p3d",
+	["a3\structures_f_enoch\civilian\sheds\shed_13_f.p3d",
+	["a3\structures_f_enoch\civilian\houses\house_1w10_f.p3d",
+	["a3\structures_f_enoch\walls\stone\mound03_8m_f.p3d",
+	["a3\structures_f_enoch\walls\stone\mound04_8m_f.p3d",
+	["a3\structures_f_enoch\civilian\houses\house_2b01_f.p3d",
+	["a3\structures_f_enoch\civilian\accessories\stonewell_01_f.p3d",
+	["a3\structures_f_enoch\civilian\accessories\hutch_01_f.p3d",
+	["a3\structures_f_enoch\civilian\houses\house_2w02_f.p3d",
+	["a3\structures_f_enoch\civilian\houses\house_1w06_f.p3d",
+	["a3\structures_f_enoch\civilian\sheds\shed_10_f.p3d",
+	["a3\structures_f_enoch\industrial\farms\greenhouse_01_f.p3d",
+	["a3\structures_f_enoch\civilian\houses\house_1w09_f.p3d",
+	["a3\structures_f_enoch\civilian\houses\house_2w04_f.p3d",
+	["a3\structures_f_enoch\civilian\houses\house_2w03_f.p3d",
+	["a3\structures_f_enoch\industrial\agriculture\haybale_01_packed_f.p3d",
+	["a3\structures_f_enoch\civilian\houses\house_1w11_f.p3d",
+	["a3\structures_f_exp\walls\hedges\hedge_01_s_2m_f.p3d",
+	["a3\structures_f_enoch\industrial\houses\workshop_01_grey_f.p3d",
+	["a3\structures_f_enoch\walls\brick\brickwall_03_l_gate_f.p3d",
+	["a3\structures_f_enoch\cultural\cemeteries\grave_10_f.p3d",
+	["a3\structures_f_enoch\cultural\cemeteries\tombstone_11_f.p3d",
+	["a3\structures_f_enoch\cultural\cemeteries\tombstone_04_f.p3d",
+	["a3\structures_f_enoch\cultural\cemeteries\tombstone_10_f.p3d",
+	["a3\structures_f_enoch\cultural\cemeteries\grave_08_f.p3d",
+	["a3\structures_f_enoch\cultural\cemeteries\gravefence_04_f.p3d",
+	["a3\structures_f_enoch\cultural\orthodoxchurches\orthodoxchurch_03_f.p3d",
+	["a3\structures_f_enoch\cultural\cemeteries\grave_11_f.p3d",
+	["a3\structures_f_enoch\cultural\cemeteries\gravefence_02_f.p3d",
+	["a3\structures_f_enoch\cultural\cemeteries\tombstone_15_f.p3d",
+	["a3\structures_f_enoch\cultural\cemeteries\grave_09_f.p3d",
+	["a3\structures_f_enoch\cultural\cemeteries\tombstone_07_f.p3d",
+	["a3\structures_f_enoch\cultural\cemeteries\tombstone_08_f.p3d",
+	["a3\structures_f_enoch\civilian\houses\house_2b03_f.p3d",
+	["a3\structures_f_enoch\industrial\garages\garagerow_01_small_f.p3d",
+	["a3\structures_f_enoch\civilian\houses\house_1w02_f.p3d",
+	["a3\structures_f_enoch\civilian\houses\house_1w01_f.p3d",
+	["a3\structures_f_enoch\industrial\houses\waterstation_01_f.p3d",
+	["a3\structures_f_enoch\civilian\houses\house_1w03_f.p3d",
+	["a3\structures_f_enoch\civilian\houses\house_1w12_f.p3d",
+	["a3\structures_f_enoch\civilian\houses\house_2w01_f.p3d",
+	["a3\structures_f_enoch\cultural\cemeteries\tombstone_16_f.p3d",
+	["a3\structures_f_enoch\cultural\cemeteries\gravefence_03_f.p3d",
+	["a3\structures_f_enoch\commercial\villagestore_01\villagestore_01_f.p3d",
+	["a3\structures_f_enoch\civilian\medical\healthcenter_01_f.p3d",
+	["a3\structures_f_enoch\civilian\houses\house_1w13_f.p3d",
+	["a3\structures_f_enoch\civilian\houses\house_2b04_f.p3d",
+	["a3\structures_f_enoch\civilian\police\policestation_01_f.p3d",
+	["a3\structures_f_exp\walls\wooden\woodenwall_02_s_8m_f.p3d",
+	["a3\props_f_enoch\civilian\camping\woodentable_02_large_f.p3d",
+	["a3\structures_f_enoch\civilian\houses\house_1b01_f.p3d",
+	["a3\structures_f_exp\walls\wooden\woodenwall_02_s_gate_f.p3d",
+	["a3\structures_f_exp\walls\wooden\woodenwall_02_s_2m_f.p3d",
+	["a3\structures_f_exp\walls\wooden\woodenwall_02_s_4m_f.p3d",
+	["a3\structures_f_enoch\walls\brick\brickwall_02_l_corner_v1_f.p3d",
+	["a3\structures_f_enoch\industrial\smokestacks\smokestack_02_f.p3d",
+	["a3\structures_f_enoch\industrial\houses\factory_02_f.p3d",
+	["a3\structures_f_enoch\industrial\farms\watertower_02_f.p3d",
+	["a3\structures_f_enoch\industrial\farms\strawstack_01_f.p3d",
+	["a3\structures_f_enoch\industrial\farms\barn_03_large_f.p3d",
+	["a3\structures_f_enoch\walls\polewalls\polewall_02_end_f.p3d",
+	["a3\structures_f_enoch\walls\polewalls\polewall_02_3m_v1_f.p3d",
+	["a3\structures_f_enoch\industrial\farms\greenhouse_01_damaged_f.p3d",
+	["a3\structures_f_enoch\industrial\farms\barn_02_f.p3d",
+	["a3\structures_f_enoch\civilian\camps\camp_house_01_brown_f.p3d",
+	["a3\structures_f_enoch\industrial\farms\cowshed_01_c_f.p3d",
+	["a3\structures_f_enoch\industrial\farms\cowshed_01_b_f.p3d",
+	["a3\structures_f_enoch\wrecks\trailercistern_wreck_f.p3d",
+	["a3\structures_f_enoch\industrial\farms\cowshed_01_a_f.p3d",
+	["a3\structures_f_enoch\industrial\agriculture\manurepile_01_f.p3d",
+	["a3\props_f_enoch\civilian\forest\deerstand_02_f.p3d",
+	["a3\structures_f_enoch\walls\wooden\woodenwall_05_m_end_f.p3d",
+	["a3\props_f_enoch\civilian\forest\feedshack_01_f.p3d",
+	["a3\props_f_enoch\civilian\forest\deerskeleton_damaged_01_f.p3d",
+	["a3\structures_f_enoch\industrial\materials\woodpile_02_f.p3d",
+	["a3\structures_f_enoch\civilian\houses\house_2w05_f.p3d",
+	["a3\structures_f_enoch\industrial\materials\woodpile_04_f.p3d",
+	["a3\structures_f_enoch\industrial\materials\timberpile_02_f.p3d",
+	["a3\structures_f_enoch\industrial\materials\timberlog_05_f.p3d",
+	["a3\structures_f_enoch\industrial\materials\timberpile_04_f.p3d",
+	["a3\structures_f_enoch\civilian\sheds\shed_09_f.p3d",
+	["a3\structures_f_enoch\walls\wooden\woodenwall_03_s_5m_v1_f.p3d",
+	["a3\structures_f_enoch\walls\wooden\woodenwall_03_s_gate_f.p3d",
+	["a3\structures_f_enoch\walls\wooden\woodenwall_05_m_4m_v2_f.p3d",
+	["a3\structures_f_enoch\walls\polewalls\polewall_02_3m_v2_f.p3d",
+	["a3\structures_f_exp\infrastructure\bridges\bridgewooden_01_f.p3d",
+	["a3\structures_f_exp\infrastructure\bridges\bridgewooden_01_pillar_f.p3d",
+	["a3\props_f_exp\naval\boats\boat_05_wreck_f.p3d",
+	["a3\structures_f_enoch\commercial\fuelstation_03\fuelstation_03_prices_f.p3d",
+	["a3\structures_f_exp\industrial\surfacemine_01\sm_01_shed_f.p3d",
+	["a3\structures_f_bootcamp\system\usertexture_1x2_f.p3d",
+	["jbad_structures\opxmisc2\def\jbad_opx2_speedbump.p3d",
+	["a3\structures_f_exp\commercial\supermarket_01\supermarket_01_f.p3d",
+	["a3\structures_f_exp\industrial\dieselpowerplant_01\dpp_01_smallfactory_f.p3d",
+	["a3\props_f_exp\industrial\heavyequipment\bulldozer_01_abandoned_f.p3d",
+	["a3\structures_f\dominants\lighthouse\lighthouse_small_f.p3d",
+	["a3\structures_f_enoch\walls\pipe\pipefence_06_m_gate_l_f.p3d",
+	["a3\structures_f_enoch\industrial\power\powerstation_01_f.p3d",
+	["a3\structures_f\civ\accessories\timbers_f.p3d",
+	["a3\structures_f_enoch\industrial\sawmills\sawmill_01_f.p3d",
+	["a3\structures_f_enoch\cultural\cemeteries\tombstone_06_f.p3d",
+	["a3\structures_f_enoch\ruins\houseruin_big_02_half_f.p3d",
+	["a3\structures_f_enoch\ruins\houseruin_small_02_f.p3d",
+	["a3\structures_f_enoch\walls\brick\brickwall_01_l_end_f.p3d",
+	["a3\structures_f_enoch\commercial\villagestore_01\villagestore_01_ruins_f.p3d",
+	["a3\structures_f_enoch\civilian\accessories\chickencoop_01_f.p3d",
+	["a3\structures_f_exp\walls\polewalls\polewall_01_6m_f.p3d",
+	["a3\structures_f_enoch\walls\net\netfence_03_m_9m_f.p3d",
+	["a3\structures_f_enoch\walls\net\netfence_03_m_3m_f.p3d",
+	["a3\structures_f_exp\walls\net\netfence_01_m_gate_f.p3d",
+	["a3\structures_f_enoch\cultural\church_04\church_04_white_red_f.p3d",
+	["a3\structures_f_enoch\cultural\cemeteries\tombstone_05_f.p3d",
+	["a3\structures_f_enoch\cultural\cemeteries\tombstone_17_f.p3d",
+	["a3\structures_f_enoch\cultural\cemeteries\tombstone_09_f.p3d",
+	["a3\structures_f_enoch\ruins\houseruin_big_04_f.p3d",
+	["a3\structures_f_enoch\walls\brick\brickwall_04_l_5m_old_d_f.p3d",
+	["a3\structures_f_enoch\cultural\church_04\church_04_red_f.p3d",
+	["a3\structures_f_enoch\cultural\calvary_03\calvary_03_f.p3d",
+	["a3\structures_f_enoch\cultural\chapel_02\chapel_02_white_f.p3d",
+	["a3\structures_f_enoch\walls\brick\brickwall_04_l_5m_f.p3d",
+	["a3\props_f_enoch\civilian\forest\deerstand_01_f.p3d",
+	["a3\props_f_enoch\civilian\forest\feedrack_01_f.p3d",
+	["a3\structures_f_enoch\military\barracks\barracks_02_f.p3d",
+	["a3\structures_f_enoch\industrial\agriculture\silagestorage_01_f.p3d",
+	["a3\props_f_exp\industrial\heavyequipment\miningshovel_01_abandoned_f.p3d",
+	["a3\props_f_exp\industrial\heavyequipment\haultruck_01_abandoned_f.p3d",
+	["a3\structures_f_enoch\industrial\mines\mine_01_warehouse_f.p3d",
+	["a3\structures_f_enoch\walls\brick\brickwall_04_l_pole_f.p3d",
+	["a3\structures_f_enoch\infrastructure\lamps\lampindustrial_02_f.p3d",
+	["a3\structures_f_argo\commercial\billboards\billboard_04_blank_f.p3d",
+	["a3\structures_f_enoch\infrastructure\benchmarks\surveymarker_01_cover_f.p3d",
+	["a3\structures_f_enoch\walls\brick\brickwall_01_l_5m_d_f.p3d",
+	["a3\structures_f_exp\walls\tin\tinwall_01_m_4m_v2_f.p3d",
+	["a3\structures_f_enoch\cultural\calvary_04\calvary_04_f.p3d",
+	["a3\structures_f_enoch\civilian\camps\caravan_01_rust_f.p3d",
+	["a3\structures_f\households\slum\slum_house03_f.p3d",
+	["a3\structures_f_enoch\civilian\camps\caravan_01_green_f.p3d",
+	["a3\structures_f\households\slum\slum_house02_f.p3d",
+	["a3\structures_f\households\slum\slum_house01_f.p3d",
+	["a3\structures_f_enoch\furniture\school_equipment\school_clock.p3d",
+	["a3\props_f_orange\furniture\rug_01_f.p3d",
+	["a3\structures_f_enoch\cultural\church_04\church_04_white_damaged_f.p3d",
+	["a3\structures_f_enoch\cultural\chapel_02\chapel_02_white_ruins_f.p3d",
+	["a3\structures_f_enoch\cultural\orthodoxchurches\orthodoxchurch_03_ruins_f.p3d",
+	["a3\structures_f_enoch\military\training\target_line_01_f.p3d",
+	["a3\props_f_aow\items\decorative\flowerbouquet_01_f.p3d",
+	["a3\structures_f_argo\cultural\statues\monument_01_f.p3d",
+	["a3\structures_f_enoch\cultural\church_04\church_04_lightblue_damaged_f.p3d",
+	["a3\structures_f_exp\naval\piers\pierwooden_03_f.p3d",
+	["a3\structures_f_enoch\military\airfield\servicehangar_01_r_f.p3d",
+	["a3\structures_f_enoch\military\radar\mobileradar_01_generator_f.p3d",
+	["a3\structures_f_enoch\military\airfield\servicehangar_01_l_f.p3d",
+	["a3\structures_f_enoch\walls\brick\brickwall_04_l_5m_d_f.p3d",
+	["a3\structures_f_enoch\civilian\houses\house_1w01_ruins_f.p3d",
+	["a3\structures_f_enoch\civilian\houses\house_2b04_ruins_f.p3d",
+	["a3\structures_f_enoch\ruins\houseruin_small_01_f.p3d",
+	["a3\structures_f_enoch\civilian\houses\house_1w03_ruins_f.p3d",
+	["a3\structures_f_enoch\industrial\farms\barn_03_small_ruins_f.p3d",
+	["a3\structures_f_enoch\ruins\houseruin_big_05_f.p3d",
+	["a3\structures_f_enoch\civilian\houses\house_1w09_ruins_f.p3d",
+	["a3\structures_f_enoch\civilian\houses\house_1w13_ruins_f.p3d",
+	["a3\structures_f_enoch\civilian\sheds\shed_10_ruins_f.p3d",
+	["a3\structures_f_enoch\civilian\houses\house_1w08_ruins_f.p3d",
+	["a3\structures_f_enoch\industrial\materials\timberpile_05_f.p3d",
+	["a3\structures_f_enoch\industrial\materials\timberpile_03_f.p3d",
+	["a3\structures_f_enoch\cultural\statues\statue_03_f.p3d",
+	["a3\structures_f_enoch\military\radar\mobileradar_01_radar_ruins_f.p3d",
+	["a3\structures_f_argo\walls\military\mil_wallbig_debris_f.p3d",
+	["a3\structures_f_enoch\civilian\camps\camp_house_01_brown_ruins_f.p3d",
+	["a3\structures_f_exp\military\emplacements\emplacementgun_01_d_rusty_f.p3d",
+	["a3\structures_f_enoch\ruins\housewallruin_corner_01_f.p3d",
+	["a3\structures_f_enoch\civilian\medical\healthcenter_01_ruins_f.p3d",
+	["a3\structures_f_enoch\civilian\houses\house_2w01_ruins_f.p3d",
+	["a3\structures_f_enoch\civilian\houses\house_2b02_ruins_f.p3d",
+	["a3\structures_f_enoch\industrial\farms\barn_02_ruins_f.p3d",
+	["a3\structures_f_enoch\ruins\houseruin_small_03_f.p3d",
+	["a3\structures_f_enoch\ruins\houseruin_small_04_f.p3d",
+	["a3\structures_f_enoch\industrial\agriculture\feedstorage_01_ruins_f.p3d",
+	["a3\structures_f_exp\naval\piers\breakwater_02_f.p3d",
+	["a3\structures_f_exp\infrastructure\runways\runway_01_centerline_10m_f.p3d",
+	["a3\structures_f_exp\infrastructure\runways\runway_01_30m_f.p3d",
+	["a3\structures_f_exp\infrastructure\runways\runway_01_30m_end_f.p3d",
+	["a3\structures_f_exp\infrastructure\runways\runway_01_30m_skids_end_f.p3d",
+	["a3\structures_f_exp\infrastructure\runways\runwaydigit_3_f.p3d",
+	["a3\structures_f_exp\infrastructure\runways\runwaydigit_5_f.p3d",
+	["a3\structures_f_exp\infrastructure\runways\runway_01_30m_skids_f.p3d",
+	["a3\structures_f_exp\infrastructure\runways\runwaydigit_1_f.p3d",
+>>>>>>>>>>>>>>>>>> Copying C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@ALiVE\indexing\sehreno\x\alive\addons\fnc_strategic\indexes\parsed.objects.sehreno.sqf to C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@ALiVE\indexing\sehreno\x\alive\addons\fnc_strategic\indexes\objects.sehreno.sqf
+Parsing Complete
+No Static data file found.
+Starting Cluster Generation, check in game RPT for more details.
+mil Cluster small number erased: _nodes set [count _nodes, ["35281",[7440.67,8725.24,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["35282",[7453.87,8727.65,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["35283",[7467.56,8730.15,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["35280",[7480.76,8732.56,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["45662",[8116.67,7774.06,7.62939e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["45634",[8084.33,7802.68,6.10352e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["45568",[8159.53,7914.9,1.52588e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["223062",[9554.57,9826.95,-1.52588e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["223063",[9586.46,9826.95,-1.52588e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["223061",[9618.41,9826.95,-1.52588e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["378496",[10685.7,4755.03,-9.53674e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["334768",[12363.7,8466.98,-3.8147e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["334769",[12363.7,8450.95,-3.8147e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["334791",[12363.7,8433.74,-3.8147e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["334792",[12363.7,8417.71,-3.8147e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379240",[16423.7,4497.86,9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379241",[16411.5,4514.71,9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379159",[16398.7,4531.48,9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["378881",[16533.3,4689.84,1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379472",[16579.6,4699.13,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379486",[16586.5,4673.17,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379483",[16596.8,4671.54,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379487",[16606.7,4669.97,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379485",[16617,4668.34,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379482",[16631.5,4666.04,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379484",[16641.8,4664.41,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379561",[16661.2,4661.34,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379560",[16671.5,4659.71,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379564",[16686.7,4657.29,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379563",[16697,4655.66,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379559",[16706.9,4654.1,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379562",[16717.2,4652.47,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379685",[16717.7,4638.17,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379565",[16733.1,4676.13,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379383",[16599.4,4746.31,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379303",[16597,4763.79,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379306",[16600.3,4769.81,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["378927",[16372.1,4623.45,-7.15256e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["378996",[16419.4,4609.67,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["378997",[16466.8,4642.86,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379083",[16469.7,4557.13,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379473",[16587.2,4657.94,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379636",[16622,4652.82,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379470",[16629.1,4699.35,-3.8147e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379382",[16636.7,4741,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379431",[16691.1,4732.28,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379570",[16752.2,4737.4,9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379459",[16730,4746.09,9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379567",[16684.4,4690.96,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379684",[16677,4643.85,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["378973",[16386.9,4553.08,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["378906",[16560.9,4680.4,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["378812",[16523.3,4733.69,2.86102e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["378813",[16501.1,4717.77,-4.76837e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["378814",[16546,4750.05,2.86102e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379304",[16646.6,4761.98,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["183763",[19112.3,14026.4,9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["183750",[19095.4,14041.6,-2.86102e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["184943",[19227.1,13882,1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["184980",[19291,13866.4,-8.96454e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["91434",[11889.8,15447.2,-6.10352e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76143",[17982.6,18580.7,9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76411",[17627.7,18125.3,4.76837e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76417",[17652.9,18127.2,-2.86102e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76416",[17679.5,18130,9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76415",[17705.9,18147.1,9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76300",[17701.7,18173.3,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76332",[17780.7,18204.5,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76333",[17791.2,18212.9,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76328",[17802.8,18222.4,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76330",[17813.2,18230.9,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76329",[17824.1,18239.6,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76327",[17834.5,18248.1,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76363",[17868.7,18206.9,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76362",[17858.3,18198.4,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76361",[17846.7,18188.9,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76359",[17836.3,18180.4,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76360",[17825.5,18171.6,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76364",[17815.1,18163.1,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76384",[17581.4,18160.3,9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76577",[17943.9,18285.5,-2.86102e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76098",[17960.3,18615.9,1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76099",[17952.6,18653.9,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76084",[17944.6,18688.7,1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76290",[17637.7,18166.3,9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76319",[17876.9,18263.4,9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76634",[17893.1,18243.2,9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["67597",[12066.1,17749,1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["67968",[12074.7,17710.8,1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["68053",[12084,17723.5,1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["60618",[3179.3,2107.8,-8.2016e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["35281",[7440.67,8725.24,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["35282",[7453.87,8727.65,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["35283",[7467.56,8730.15,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["35280",[7480.76,8732.56,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["45662",[8116.67,7774.06,7.62939e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["334768",[12363.7,8466.98,-3.8147e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["334769",[12363.7,8450.95,-3.8147e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["334791",[12363.7,8433.74,-3.8147e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["334792",[12363.7,8417.71,-3.8147e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379240",[16423.7,4497.86,9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379241",[16411.5,4514.71,9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379159",[16398.7,4531.48,9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["378881",[16533.3,4689.84,1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379472",[16579.6,4699.13,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379486",[16586.5,4673.17,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379483",[16596.8,4671.54,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379487",[16606.7,4669.97,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379485",[16617,4668.34,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379482",[16631.5,4666.04,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379484",[16641.8,4664.41,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379561",[16661.2,4661.34,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379560",[16671.5,4659.71,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379564",[16686.7,4657.29,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379563",[16697,4655.66,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379559",[16706.9,4654.1,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379562",[16717.2,4652.47,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379685",[16717.7,4638.17,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379565",[16733.1,4676.13,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379383",[16599.4,4746.31,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379303",[16597,4763.79,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379306",[16600.3,4769.81,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["378927",[16372.1,4623.45,-7.15256e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["378996",[16419.4,4609.67,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["378997",[16466.8,4642.86,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379083",[16469.7,4557.13,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379473",[16587.2,4657.94,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379636",[16622,4652.82,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379470",[16629.1,4699.35,-3.8147e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379382",[16636.7,4741,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379431",[16691.1,4732.28,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379570",[16752.2,4737.4,9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379459",[16730,4746.09,9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379567",[16684.4,4690.96,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["379684",[16677,4643.85,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["183763",[19112.3,14026.4,9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["183750",[19095.4,14041.6,-2.86102e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["91434",[11889.8,15447.2,-6.10352e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["67597",[12066.1,17749,1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["67968",[12074.7,17710.8,1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["68053",[12084,17723.5,1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76411",[17627.7,18125.3,4.76837e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76417",[17652.9,18127.2,-2.86102e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76416",[17679.5,18130,9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76415",[17705.9,18147.1,9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76300",[17701.7,18173.3,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76332",[17780.7,18204.5,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76333",[17791.2,18212.9,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76328",[17802.8,18222.4,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76330",[17813.2,18230.9,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76329",[17824.1,18239.6,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76327",[17834.5,18248.1,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76363",[17868.7,18206.9,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76362",[17858.3,18198.4,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76361",[17846.7,18188.9,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76359",[17836.3,18180.4,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76360",[17825.5,18171.6,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76364",[17815.1,18163.1,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76384",[17581.4,18160.3,9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76143",[17982.6,18580.7,9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["223062",[9554.57,9826.95,-1.52588e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["223063",[9586.46,9826.95,-1.52588e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["223061",[9618.41,9826.95,-1.52588e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76098",[17960.3,18615.9,1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76099",[17952.6,18653.9,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76084",[17944.6,18688.7,1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["184943",[19227.1,13882,1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["76577",[17943.9,18285.5,-2.86102e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379859",[16647.1,4494.38,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379857",[16625.7,4518.69,1.43051e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379858",[16641.5,4501.98,-2.86102e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379856",[16610.3,4536.13,-6.67572e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379732",[16596.9,4548.85,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["380138",[16312.2,4384.58,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["380140",[16299,4401.5,1.43051e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379181",[16325.1,4437.83,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379166",[16313.5,4452.32,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379164",[16364.5,4507.01,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379160",[16354.8,4526.9,1.43051e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379155",[16332.8,4530.55,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["378951",[16333.8,4624.11,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379873",[16679.5,4453.22,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379256",[16418,4463.25,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379306",[16600.3,4769.81,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["69856",[12102.7,17546.9,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["69858",[12099.1,17541.1,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["69857",[12095.4,17535.3,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["69814",[12064.7,17548.3,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["68053",[12084,17723.5,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["67668",[12128.2,17730.7,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["68303",[12161.5,17694.4,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["68302",[12177,17720.6,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["68304",[12223.7,17706.5,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["68306",[12213.6,17683.5,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["68452",[12221.9,17664.5,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["68451",[12225.7,17666.9,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["68502",[12238.6,17658.5,-5.72205e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["68436",[12226.9,17643.6,-5.72205e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["69940",[12219.3,17610.5,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["69938",[12225.1,17569,-7.62939e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["69873",[12236.9,17568.6,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["70008",[12238.5,17588.8,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["67825",[12233.6,17729.3,-5.72205e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["68432",[12198.7,17663.2,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["68433",[12181.8,17633.7,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["68453",[12191.6,17620.8,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["69882",[12181.5,17615.9,-7.62939e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["69963",[12157.9,17597.4,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["69965",[12165.3,17578.9,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["69694",[12142.8,17564.6,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["70016",[12159.3,17550.8,-5.72205e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["70081",[12182,17537.1,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["70021",[12194.3,17544.8,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["70022",[12198.8,17542.1,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["69964",[12197.7,17562.3,-5.72205e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["69747",[12118.8,17586.6,9.53674e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["68183",[12127.9,17638.4,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["68235",[12143.7,17665.9,1.14441e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["94",[11871.4,6082.58,-5.72205e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["100",[11933.1,6083.41,-6.86646e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["99",[11935.4,6094.49,-1.14441e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["13528",[6969.4,16027.9,1.43051e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["13609",[6965.34,16022.5,1.43051e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["13610",[6961.28,16016.9,1.43051e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["13611",[6954.49,16007.6,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["13725",[6919.53,15957.8,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["13818",[6968.29,15942.9,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["13819",[6973.51,15942.4,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["13368",[6857.8,16031.3,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["12604",[6868.31,16087.4,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["12605",[6871.5,16091.7,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["12689",[6927.06,16135.5,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["12777",[6944.35,16108,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["12782",[6962.48,16132.1,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["12781",[6977.3,16110.2,1.43051e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["12783",[6981.18,16107,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["331428",[13546.7,8964.66,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["331330",[13498.8,8968.54,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["325279",[13200.9,9093.03,1.52588e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["325229",[13200.4,9180.76,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["325252",[12996.3,9072.76,2.40803e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["330660",[13630.8,9184.52,-8.01086e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["351358",[12209.2,7103.53,-6.10352e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["353146",[12298.7,7057.15,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["312067",[10606.6,9544.08,7.62939e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["61190",[11654.5,18101,2.38419e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["61212",[11706,18105.9,-7.15256e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["61474",[11683.3,18003,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["61508",[11678,17985.8,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["61476",[11729.2,18002.9,8.58307e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["174632",[17283.8,14252.8,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["174875",[17330.9,14195.6,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["174979",[17335.9,14147.3,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["174931",[17305.9,14143.9,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["177458",[17292.8,14092.6,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["177488",[17330,14094,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["177564",[17394.7,14092.6,3.05176e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["50001",[7595.05,6369.08,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["50058",[7652.87,6292.28,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["337348",[12754.1,8085.09,7.62939e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["337349",[12760.5,8082.52,7.62939e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["337347",[12767,8080.05,7.62939e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["204469",[14094.5,12630.3,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["204727",[14155.2,12593,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["204772",[14160.9,12577.6,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["204836",[14202.9,12574.7,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["204837",[14216.1,12593.7,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["204823",[14214.2,12564.3,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["205730",[14204.7,12456.7,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["206082",[14204.6,12451.6,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["205982",[14172.3,12437.3,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["206089",[14274.9,12432.7,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["206083",[14261.2,12435.6,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["206081",[14261.1,12440.7,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["206349",[14429.7,12556.3,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["205437",[14105.9,12485.5,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["378646",[9752.15,3573.62,-3.09944e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["76353",[17767.9,18201.7,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["76456",[17757.1,18143.6,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["186204",[19254.1,13650.9,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["186223",[19253.7,13603.8,-2.38419e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["186216",[19258.1,13549.8,2.43187e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["55886",[9298.66,5823.51,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["31635",[7828.67,9101.48,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["31608",[7811.49,9091.29,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["354913",[13285.2,6931.64,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["354910",[13285.2,6913.67,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["334773",[12381.2,8488.12,3.43323e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["229297",[13312.7,11353.2,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["229277",[13342.8,11365.9,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["228126",[13214.6,11305.6,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["235210",[14492.1,10713.7,-4.57764e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["188408",[10826.1,12626,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["188688",[10856.5,12605.6,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["188669",[10887.9,12568.4,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["11473",[4514.27,15285,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379859",[16647.1,4494.38,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["351358",[12209.2,7103.53,-6.10352e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["13528",[6969.4,16027.9,1.43051e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["13609",[6965.34,16022.5,1.43051e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["13610",[6961.28,16016.9,1.43051e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["13611",[6954.49,16007.6,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["50001",[7595.05,6369.08,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379857",[16625.7,4518.69,1.43051e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379858",[16641.5,4501.98,-2.86102e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379856",[16610.3,4536.13,-6.67572e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379732",[16596.9,4548.85,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["337348",[12754.1,8085.09,7.62939e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["337349",[12760.5,8082.52,7.62939e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["337347",[12767,8080.05,7.62939e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["69856",[12102.7,17546.9,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["69858",[12099.1,17541.1,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["69857",[12095.4,17535.3,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["69814",[12064.7,17548.3,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["378646",[9752.15,3573.62,-3.09944e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["94",[11871.4,6082.58,-5.72205e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["100",[11933.1,6083.41,-6.86646e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["99",[11935.4,6094.49,-1.14441e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["312067",[10606.6,9544.08,7.62939e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["380138",[16312.2,4384.58,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["380140",[16299,4401.5,1.43051e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379181",[16325.1,4437.83,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379166",[16313.5,4452.32,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379164",[16364.5,4507.01,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379160",[16354.8,4526.9,1.43051e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379155",[16332.8,4530.55,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["378951",[16333.8,4624.11,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379873",[16679.5,4453.22,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379256",[16418,4463.25,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["61190",[11654.5,18101,2.38419e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["61212",[11706,18105.9,-7.15256e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["61474",[11683.3,18003,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["61508",[11678,17985.8,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["61476",[11729.2,18002.9,8.58307e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["76353",[17767.9,18201.7,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["76456",[17757.1,18143.6,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["325279",[13200.9,9093.03,1.52588e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["325229",[13200.4,9180.76,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["325252",[12996.3,9072.76,2.40803e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["186204",[19254.1,13650.9,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["186223",[19253.7,13603.8,-2.38419e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["186216",[19258.1,13549.8,2.43187e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["50058",[7652.87,6292.28,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["353146",[12298.7,7057.15,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["55886",[9298.66,5823.51,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["31635",[7828.67,9101.48,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["31608",[7811.49,9091.29,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["354913",[13285.2,6931.64,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["354910",[13285.2,6913.67,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["334773",[12381.2,8488.12,3.43323e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["13725",[6919.53,15957.8,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["13818",[6968.29,15942.9,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["13819",[6973.51,15942.4,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["13368",[6857.8,16031.3,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["12604",[6868.31,16087.4,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["12605",[6871.5,16091.7,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["12689",[6927.06,16135.5,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["12777",[6944.35,16108,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["12782",[6962.48,16132.1,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["12781",[6977.3,16110.2,1.43051e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["12783",[6981.18,16107,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["331428",[13546.7,8964.66,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["331330",[13498.8,8968.54,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["325279",[13200.9,9093.03,1.52588e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["325229",[13200.4,9180.76,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["325252",[12996.3,9072.76,2.40803e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["330660",[13630.8,9184.52,-8.01086e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["380138",[16312.2,4384.58,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["380140",[16299,4401.5,1.43051e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379181",[16325.1,4437.83,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379166",[16313.5,4452.32,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379164",[16364.5,4507.01,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379160",[16354.8,4526.9,1.43051e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379155",[16332.8,4530.55,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379256",[16418,4463.25,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379306",[16600.3,4769.81,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["378951",[16333.8,4624.11,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379873",[16679.5,4453.22,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["61190",[11654.5,18101,2.38419e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["61212",[11706,18105.9,-7.15256e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["61474",[11683.3,18003,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["61508",[11678,17985.8,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["61476",[11729.2,18002.9,8.58307e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["76353",[17767.9,18201.7,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["76456",[17757.1,18143.6,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["186204",[19254.1,13650.9,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["186223",[19253.7,13603.8,-2.38419e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["186216",[19258.1,13549.8,2.43187e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["204469",[14094.5,12630.3,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["204727",[14155.2,12593,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["204772",[14160.9,12577.6,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["204836",[14202.9,12574.7,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["204837",[14216.1,12593.7,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["204823",[14214.2,12564.3,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["205730",[14204.7,12456.7,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["206082",[14204.6,12451.6,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["205982",[14172.3,12437.3,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["206089",[14274.9,12432.7,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["206083",[14261.2,12435.6,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["206081",[14261.1,12440.7,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["206349",[14429.7,12556.3,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["205437",[14105.9,12485.5,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["68053",[12084,17723.5,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["67668",[12128.2,17730.7,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["68303",[12161.5,17694.4,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["68302",[12177,17720.6,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["68304",[12223.7,17706.5,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["68306",[12213.6,17683.5,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["68452",[12221.9,17664.5,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["68451",[12225.7,17666.9,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["68502",[12238.6,17658.5,-5.72205e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["68436",[12226.9,17643.6,-5.72205e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["69940",[12219.3,17610.5,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["69938",[12225.1,17569,-7.62939e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["69873",[12236.9,17568.6,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["70008",[12238.5,17588.8,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["67825",[12233.6,17729.3,-5.72205e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["68432",[12198.7,17663.2,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["68433",[12181.8,17633.7,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["68453",[12191.6,17620.8,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["69882",[12181.5,17615.9,-7.62939e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["69963",[12157.9,17597.4,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["69965",[12165.3,17578.9,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["69694",[12142.8,17564.6,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["70016",[12159.3,17550.8,-5.72205e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["70081",[12182,17537.1,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["70021",[12194.3,17544.8,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["70022",[12198.8,17542.1,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["69964",[12197.7,17562.3,-5.72205e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["69747",[12118.8,17586.6,9.53674e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["68183",[12127.9,17638.4,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["68235",[12143.7,17665.9,1.14441e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["229297",[13312.7,11353.2,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["229277",[13342.8,11365.9,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["228126",[13214.6,11305.6,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["235210",[14492.1,10713.7,-4.57764e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["174632",[17283.8,14252.8,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["174875",[17330.9,14195.6,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["174979",[17335.9,14147.3,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["174931",[17305.9,14143.9,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["177458",[17292.8,14092.6,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["177488",[17330,14094,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["177564",[17394.7,14092.6,3.05176e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["188408",[10826.1,12626,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["188688",[10856.5,12605.6,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["188669",[10887.9,12568.4,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["11473",[4514.27,15285,3.8147e-006]]];
